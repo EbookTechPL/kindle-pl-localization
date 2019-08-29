@@ -1,0 +1,42 @@
+Are you sure you want to forget this device?<br><br>This will disable the VoiceView screen reader. <br><br>To enable VoiceView again, press and hold the Power button for 9 seconds and then hold 2 fingers on your Kindle screen.	Czy na pewno chcesz zapomnieć o tym urządzeniu?<br><br>Spowoduje to wyłączenie czytnika ekranu VoiceView.<br><br>Aby ponownie włączyć VoiceView, naciśnij i przytrzymaj przycisk zasilania przez 9 sekund, a następnie przytrzymaj 2 palce na ekranie Kindle.
+Bluetooth Connection Failed	Połączenie Bluetooth nie powiodło się
+Bluetooth Devices ({numDevices,number,integer})	Urządzenia Bluetooth ({numDevices,number,integer})
+Bluetooth Pairing Failed	Nieudane powiązanie Bluetooth
+Bluetooth Pairing Request	Wymagane powiązanie Bluetooth
+Bluetooth Wizard	Kreator Bluetooth
+BLUETOOTH WIZARD	KREATOR BLUETOOTH
+Cancel	Anuluj
+CANCEL	ANULUJ
+Close	Zamknij
+Confirm	Potwierdź
+CONFIRM	POTWIERDŹ
+Connect	Połącz
+CONNECT	POŁĄCZ
+Connecting device	Połączone urządzenie
+Device Passcode Required	Wymagane hasło do urządzenia
+Devices ({numDevices,number,integer})	Urządzenia ({numDevices,number,integer})
+Disconnect	Rozłącz
+DISCONNECT	ROZŁĄCZ
+Disconnect and pair new audio device	Rozłącz i powiąż nowe urządzenie audio
+Forget	Zapomnij
+FORGET	ZAPOMNIJ
+Forget Device	Zapomnij urządzenie
+FORGET DEVICE	ZAPOMNIJ URZĄDZENIE
+No Devices Found	Nie znaleziono urządzeń
+Other	Inne
+OTHER	INNE
+Pairing device	Powiązane urządzenie
+Please pair a Bluetooth audio device to listen to Audible content or to use the VoiceView screen reader.	Powiąż urządzenie audio Bluetooth, aby odsłuchać zawartość Audible lub skorzystać z czytnika ekranu VoiceView.
+Rescan	Przeskanuj ponownie
+RESCAN	PRZESKANUJ PONOWNIE
+Scan for new devices	Skanuj w poszukiwaniu nowych urządzeń
+Scanning for Bluetooth Devices	Skanowanie w poszukiwaniu urządzeń Bluetooth
+Try Again	Spróbuj ponownie
+TRY AGAIN	SPRÓBUJ PONOWNIE
+Unable to connect to the Bluetooth audio device \"{string}\".<br/><br/>Please make sure your device is on and within range.	Nie można połączyć się z urządzeniem audio Bluetooth \"{string}\".<br/><br/>Upewnij się, że urządzenie jest włączone i znajduje się w zasięgu.
+Unable to pair with the Bluetooth audio device \"{string}\".<br/><br/>Please make sure the device is on and in pairing mode.	Nie można powiązać z urządzeniem audio Bluetooth \"{string}\".<br/><br/>Upewnij się, że urządzenie jest włączone i znajduje się w trybie parowania.
+would like to pair with your Kindle. Please confirm that the number below is shown on	chciałby powiązać się z Twoim Kindle. Potwierdź, że poniższy numer jest wyświetlany na
+Would you like to connect to or forget the device \"{string}\"?	Czy chcesz połączyć się z urządzeniem \"{string}\" lub je zapomnieć?
+Would you like to disconnect from or forget the device \"{string}\"?	Czy chcesz odłączyć czytnik od urządzenia \"{string}\" lub je zapomnieć?
+You are currently connected to {string}.	Jesteś obecnie połączony z {string}.
+"{string}" would like to pair with your Kindle. Please confirm that the number below is shown on "{string}"	"{string}" chciałbyś sparować z Kindle. Potwierdź, że poniższy numer jest wyświetlany na "{string}"
