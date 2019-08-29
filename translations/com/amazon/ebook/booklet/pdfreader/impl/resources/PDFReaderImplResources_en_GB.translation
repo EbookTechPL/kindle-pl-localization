@@ -1,15 +1,15 @@
-Could not find "{0}".	
-DONE	
-Incorrect Password	
-Incorrect password. Please try again.	
-NEXT	
-No more instances of "{0}" found.	
-Opening Page {0} of {1} ...	
-PREVIOUS	
-Page {0}	
-Page {0} of {1}	
-Password-Protected	
-STOP	
-Search	
-There isnʼt any text on this page.	
-This PDF requires a password.	
+Could not find "{0}".	Nie można znaleźć „{0}”.
+DONE	GOTOWE
+Incorrect Password	Nieprawidłowe hasło
+Incorrect password. Please try again.	Nieprawidłowe hasło Proszę spróbować ponownie.
+NEXT	DALEJ
+No more instances of "{0}" found.	Nie znaleziono więcej wystąpień „{0}”.
+Opening Page {0} of {1} ...	Otwieram stronę {0} z {1} ...
+PREVIOUS	WSTECZ
+Page {0}	Strona {0}
+Page {0} of {1}	Strona {0} z {1}
+Password-Protected	Chronione hasłem
+STOP	STOP
+Search	Szukaj
+There isnʼt any text on this page.	Na tej stronie nie ma tekstu.
+This PDF requires a password.	Ten PDF jest chroniony hasłem.

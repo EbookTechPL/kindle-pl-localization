@@ -1,26 +1,26 @@
-Book unavailable	
-Browse millions of titles from every genre, daily deals, editorʼs picks and more.	
-Discover new books with Goodreads, the worldʼs largest community of readers.	
-Earthʼs Biggest Bookstore.	
-Find books you want to read with Goodreads 	
-Find books you want to read 	
-Freedom to Explore	
-Freedom to read from over one million titles.	
-Go to the Kindle Store to find a book and start reading.	
-Home	
-Library recents	
-MORE BY {0}	
-MORE LIKE {0}	
-NO THANKS	
-Reading List recents	
-Recommendation	
-Start a list of books you want to read 	
-The book is currently unavailable. Please try again at a later time. If the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	
-Unlimited reading from over one million titles. Try your first month for free. Itʼs on us!	
-Updating Your Home	
-Updating your Home experience. This may take a few seconds.	
-Welcome to the new Home	
-YES	
-You currently have recommendations turned off, which also disables the new Home experience.~~~~Would you like to try the new, improved Home? You can change this at any time in Settings.	
-Your library is empty.	
-{0,choice,0#+{0,number,integer} MORE|100#99+ MORE}	
+Book unavailable	Książka niedostępna
+Browse millions of titles from every genre, daily deals, editorʼs picks and more.	Przeglądaj miliony tytułów z każdej kategorii, codzienne promocje, książki polecane i wiele więcej.
+Discover new books with Goodreads, the worldʼs largest community of readers.	Okrywaj nowe książki z Goodreads, największą społecznością czytelników na świecie.
+Earthʼs Biggest Bookstore.	Największa księgarnia na Ziemi.
+Find books you want to read with Goodreads 	Znajdź w Goodreads książki, które chcesz przeczytać 
+Find books you want to read 	Znajdź książki, które chcesz przeczytać 
+Freedom to Explore	Swoboda Odkrywania
+Freedom to read from over one million titles.	Swoboda czytania z ponad miliona tytułów.
+Go to the Kindle Store to find a book and start reading.	Przejdź do sklepu Kindle, aby znaleźć książkę i rozpocząć czytanie.
+Home	Ekran główny
+Library recents	Ostatnio w bibliotece
+MORE BY {0}	WIĘCEJ AUTORSTWA {0}
+MORE LIKE {0}	WIĘCEJ PODOBNYCH DO {0}
+NO THANKS	NIE, DZIĘKUJĘ
+Reading List recents	Ostatnie listy lektur
+Recommendation	Rekomendacje
+Start a list of books you want to read 	Utwórz listę książek, które chcesz przeczytać 
+The book is currently unavailable. Please try again at a later time. If the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Książka jest obecnie niedostępna. Spróbuj ponownie później. Jeśli problem będzie się powtarzał, skontaktuj się z obsługą klienta Kindle pod adresem www.amazon.com/devicesupport.
+Unlimited reading from over one million titles. Try your first month for free. Itʼs on us!	Nieograniczone czytanie wśród ponad miliona tytułów. Pierwszy miesiąc gratis. Tylko u nas!
+Updating Your Home	Uaktualnij ekran główny
+Updating your Home experience. This may take a few seconds.	Trwa aktualizacja ekranu głównego. To może zająć kilka sekund.
+Welcome to the new Home	Witaj na nowym ekranie głównym
+YES	TAK
+You currently have recommendations turned off, which also disables the new Home experience.~~~~Would you like to try the new, improved Home? You can change this at any time in Settings.	Aktualnie masz wyłączone rekomendacje, co powoduje, że tracisz część doświadczeń przy korzystaniu z ekranu głównego.~~~~Czy chciałbyś wypróbować nowy, ulepszony ekran główny? Możesz zmienić to ustawienie w dowolnej chwili w menu ustawień.
+Your library is empty.	Twoja biblioteka jest pusta.
+{0,choice,0#+{0,number,integer} MORE|100#99+ MORE}	{0,choice,0#+{0,number,integer} WIĘCEJ|100#99+ WIĘCEJ}

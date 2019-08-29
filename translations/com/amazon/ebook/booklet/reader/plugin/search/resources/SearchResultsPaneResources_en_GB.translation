@@ -1,12 +1,12 @@
-Go To	
-Loc 	
-Location 	
-RESULTS FOR "{0}"	
-Search failed.	
-Searching…	
-There are no results found in this book.	
-Title not indexed – please try again later.	
-{0,number,integer} to {1,number,integer} of {2,number,integer} result	
-{0,number,integer} to {1,number,integer} of {2,number,integer} results	
-{0,number,integer}-{1,number,integer} of {2,number,integer}	
-{0}{1} {2} Page {3}	
+Go To	Idź do
+Loc 	Lokacja
+Location 	Lokacja
+RESULTS FOR "{0}"	WYNIKI DLA „{0}”
+Search failed.	Wyszukiwanie nie powiodło się.
+Searching…	Wyszukiwanie...
+There are no results found in this book.	Brak wyników wyszukiwania w tej książce.
+Title not indexed – please try again later.	Tytuł niezindeksowany. Spróbuj ponownie później.
+{0,number,integer} to {1,number,integer} of {2,number,integer} result	{0,number,integer} do {1,number,integer} z {2,number,integer} wynik
+{0,number,integer} to {1,number,integer} of {2,number,integer} results	{0,number,integer} do {1,number,integer} z {2,number,integer} wyników
+{0,number,integer}-{1,number,integer} of {2,number,integer}	{0,number,integer}–{1,number,integer} z {2,number,integer}
+{0}{1} {2} Page {3}	{0}{1} {2} Strona {3}

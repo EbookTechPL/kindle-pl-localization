@@ -1,4 +1,4 @@
-Delete This Image	
-Delete This Image Folder	
-Delete This Image Package	
-{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	
+Delete This Image	Usuń ten obrazek
+Delete This Image Folder	Usuń ten katalog obrazków
+Delete This Image Package	Usuń tę paczkę obrazków
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#Brak pozycji | 1#{0,number,integer} pozycja | 2#Pozycji: {0,number,integer}}

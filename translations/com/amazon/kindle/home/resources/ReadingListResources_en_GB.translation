@@ -1,10 +1,10 @@
-FROM YOUR LIST	
-Find books you want to read	
-Find books you want to read with Goodreads	
-GOODREADS WANT TO READ	
-SAMPLES	
-SEE MORE 	
-Showing {0, number, integer}	
-YOUR LIST	
-Your Reading Lists	
-Your Reading Lists. Showing items in {0}	
+FROM YOUR LIST	Z TWOJEJ LISTY
+Find books you want to read	Znajdź książki, które chcesz przeczytać
+Find books you want to read with Goodreads	Znajdź książki, które chcesz przeczytać z Goodreads
+GOODREADS WANT TO READ	„CHCĘ PRZECZYTAĆ” Z GOODREADS
+SAMPLES	PRÓBKI
+SEE MORE 	ZOBACZ WIĘCEJ 
+Showing {0, number, integer}	Pokazuję {0, number, integer}
+YOUR LIST	TWOJA LISTA
+Your Reading Lists	Twoje listy lektur
+Your Reading Lists. Showing items in {0}	Twoje listy lektur. Pokazuje pozycje w {0}

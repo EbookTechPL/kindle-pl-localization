@@ -1,4 +1,4 @@
-Card selection	
-Card: {0}	
-Card: {0}, {1,number,integer} of {2,number,integer}	
-Go to card: {0}	
+Card selection	Wybór karty
+Card: {0}	Karta: {0}
+Card: {0}, {1,number,integer} of {2,number,integer}	Karta: {0}, {1,number,integer} z {2,number,integer}
+Go to card: {0}	Idź do karty: {0}

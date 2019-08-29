@@ -1,3 +1,3 @@
-Download Paused...	
-Word Wise	
-{0,select,true{Downloading...} other{Downloading Word Wise...}}	
+Download Paused...	Pobieranie zatrzymane...
+Word Wise	Podpowiedzi do słów
+{0,select,true{Downloading...} other{Downloading Word Wise...}}	{0,select,true{Pobieranie...} other{Pobieranie podpowiedzi do słów...}}

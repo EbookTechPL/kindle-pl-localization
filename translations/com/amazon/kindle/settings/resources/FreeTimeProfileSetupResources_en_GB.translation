@@ -1,23 +1,23 @@
-Access to Experimental Web Browser.	
-Add Child	
-CANCEL	
-Child Profile	
-Child Profile: {0}	
-Date of Birth	
-Enter your childʼs name in their profile to keep track of their progress and achievements.	
-Experimental Web Browser	
-First Name	
-Gender	
-Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	
-In the next step, you can add content to your childʼs library.	
-In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with {0} as well as add books you already own.	
-NEXT	
-Parental Controls	
-Restrictions	
-Restrictions: {0}	
-Step {0,number,integer}	
-The Store, access to the Cloud and the Goodreads network will be automatically restricted.	
-Use Kindle FreeTime	
-Use Kindle for Kids	
-{0, select, true {Great for kids 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Store and Wikipedia.}}	
-{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Store and Wikipedia.}}	
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+Add Child	Dodaj dziecko
+CANCEL	ANULUJ
+Child Profile	Profil dziecka
+Child Profile: {0}	Profil dziecka: {0}
+Date of Birth	Data urodzenia
+Enter your childʼs name in their profile to keep track of their progress and achievements.	Nazwij profil imieniem dziecka, aby śledzić jego postępy i osiągnięcia.
+Experimental Web Browser	Przeglądarka internetowa
+First Name	Imię
+Gender	Płeć
+Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	Idealne dla dzieci 9-letnich i starszych. Wykorzystując standardowe ustawienia Kindle, każdy profil może mieć spersonalizowaną kontrolę rodzicielską. Ograniczone zakupy, przeglądanie internetu, media społecznościowe oraz dostęp do innych funkcji.
+In the next step, you can add content to your childʼs library.	W następnym kroku, będziesz mógł dodać zawartość do biblioteki swojego dziecka.
+In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with {0} as well as add books you already own.	W następnym kroku, będziesz mógł dodać książki do biblioteki swojego dziecka. Będziesz mógł dołączyć tysiące książek z {0} oraz dodać książki, które już posiadasz.
+NEXT	DALEJ
+Parental Controls	Kontrola rodzicielska
+Restrictions	Ograniczenia
+Restrictions: {0}	Ograniczenia: {0}
+Step {0,number,integer}	Krok {0,number,integer}
+The Store, access to the Cloud and the Goodreads network will be automatically restricted.	Sklep, dostęp do chmury i do Goodreads zostanie automatycznie ograniczony.
+Use Kindle FreeTime	Użyj Kindle Freetime
+Use Kindle for Kids	Użyj Kindle for Kids
+{0, select, true {Great for kids 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Store and Wikipedia.}}	{0, select, true {Idealne dla dzieci 8-letnich i młodszych. Stwórz spersonalizowane profile dla Twoich dzieci. Kindle for Kids automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.} other {Stwórz spersonalizowane profile dla Twoich dzieci. Kindle for Kids automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.}}
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Store and Wikipedia.}}	{0, select, true {Idealne dla dzieci 8-letnich i młodszych. Stwórz spersonalizowane profile dla Twoich dzieci. Kindle for Kids automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.} other {Stwórz spersonalizowane profile dla Twoich dzieci. Kindle for Kids automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.}}

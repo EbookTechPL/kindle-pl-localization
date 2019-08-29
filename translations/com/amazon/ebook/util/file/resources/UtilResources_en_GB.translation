@@ -1,1 +1,1 @@
-{0, choice, -1#Unknown GB|0#{0,number,integer} BYTES|1023#{1,number,integer} KB|1048575#{2,number,integer} MB|1073741823#{3,number,#.##} GB}	
+{0, choice, -1#Unknown GB|0#{0,number,integer} BYTES|1023#{1,number,integer} KB|1048575#{2,number,integer} MB|1073741823#{3,number,#.##} GB}	{0, choice, -1#Unknown GB|0#{0,number,integer} BAJTÓW|1023#{1,number,integer} KB|1048575#{2,number,integer} MB|1073741823#{3,number,#.##} GB}

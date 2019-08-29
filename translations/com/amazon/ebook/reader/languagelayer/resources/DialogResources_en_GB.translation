@@ -1,17 +1,17 @@
-<html>{0,select,true{{1}.&nbsp;<i>“{2}”</i>} other{{1}.}}</html>	
-I already know this word	
-Multiple-Choice Hint	
-None of these	
-See Meanings ▶	
-Similar Words	
-Some words have more than one possible meaning. When weʼre unsure of the correct meaning of a word in a given sentence, weʼll show you a list of possible meanings and ask you to pick the one that is most helpful.	
-Thank you for your feedback!	
-Thank you. Can you tell us more about the problem?	
-The hint uses difficult words	
-This meaning is wrong	
-This word can also mean:	
-Was this helpful?	
-Which of these is most helpful?	
-Word Wise	
-{0,select,true{Definition from {1}} other{Definition}}	
-“{0}”	
+<html>{0,select,true{{1}.&nbsp;<i>“{2}”</i>} other{{1}.}}</html>	<html>{0,select,true{{1}.&nbsp;<i>„{2}”</i>} other{{1}.}}</html>
+I already know this word	Znam już to słowo
+Multiple-Choice Hint	Wskazówka wielokrotnego wyboru
+None of these	Żadne z tych
+See Meanings ▶	Zobacz znaczenia ▶
+Similar Words	Synonimy
+Some words have more than one possible meaning. When weʼre unsure of the correct meaning of a word in a given sentence, weʼll show you a list of possible meanings and ask you to pick the one that is most helpful.	Niektóre słowa mają więcej niż jedno możliwe znaczenie. W przypadku, gdy nie jesteśmy pewni poprawnego znaczenia słowa w danym zdaniu, pokażemy Ci listę możliwych znaczeń i poprosimy o wskazanie najbardziej pomocnego.
+Thank you for your feedback!	Dziękujemy za Twoje zgłoszenie!
+Thank you. Can you tell us more about the problem?	Dziękujemy. Możesz powiedzieć nam więcej o tym problemie?
+The hint uses difficult words	Wskazówka zawiera trudne słowa
+This meaning is wrong	To znaczenie jest błędne
+This word can also mean:	To słowo może również znaczyć:
+Was this helpful?	Czy to było pomocne?
+Which of these is most helpful?	Które z tych jest najbardziej pomocne?
+Word Wise	Podpowiedzi do słów
+{0,select,true{Definition from {1}} other{Definition}}	{0,select,true{Definicja z {1}} other{Definicja}}
+“{0}”	„{0}”

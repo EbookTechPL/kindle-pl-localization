@@ -1,23 +1,23 @@
-ALL	
-BOOK	
-HIGHLIGHTS	
-Highlight	
-ISSUE	
-Loc {0}	
-NOTES	
-NOTES AND HIGHLIGHTS	
-No Results	
-No book results for "{0}" were found.	
-No issue results for "{0}" were found.	
-No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in a Kindle book and search for them here.	
-No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in an issue and search for them here.	
-No results for "{0}" were found.	
-Note	
-Page 	
-Page {0}	
-Result	
-Result {0,number,integer} to {1,number,integer} of {2,number,integer}	
-Result {0,number,integer}-{1,number,integer} of {2,number,integer}	
-Results	
-Results {0,number,integer} to {1,number,integer} of {2,number,integer}	
-Results {0,number,integer}-{1,number,integer} of {2,number,integer}	
+ALL	WSZYSTKO
+BOOK	KSIĄŻKA
+HIGHLIGHTS	PODKREŚLENIA
+Highlight	Podkreśl
+ISSUE	WYDANIE
+Loc {0}	Lok {0}
+NOTES	NOTATKI
+NOTES AND HIGHLIGHTS	NOTATKI I PODKREŚLENIA
+No Results	Brak wyników
+No book results for "{0}" were found.	Nie znaleziono wyników wśród książek dla „{0}”.
+No issue results for "{0}" were found.	Nie znaleziono wyników wśród wydań dla „{0}”.
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in a Kindle book and search for them here.	Nie znaleziono notatek i podkreśleń dla „{0}”.~~~~ Możesz podkreślać i robić notatki w dowolnym miejscu w książce na Kindle i wyszukiwać je tutaj.
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in an issue and search for them here.	Nie znaleziono wyników dotyczących notatek i podkreśleń dla „{0}”.~~~~ Możesz podkreślać i robić notatki w dowolnym miejscu w wydaniu i wyszukiwać je tutaj.
+No results for "{0}" were found.	Nie znaleziono wyników dla „{0}”.
+Note	Notatka
+Page 	Strona
+Page {0}	Strona {0}
+Result	Wynik
+Result {0,number,integer} to {1,number,integer} of {2,number,integer}	Wynik {0,number,integer} do {1,number,integer} z {2,number,integer}
+Result {0,number,integer}-{1,number,integer} of {2,number,integer}	Wynik {0,number,integer}-{1,number,integer} z {2,number,integer}
+Results	Wyniki
+Results {0,number,integer} to {1,number,integer} of {2,number,integer}	Wyniki {0,number,integer} do {1,number,integer} z {2,number,integer}
+Results {0,number,integer}-{1,number,integer} of {2,number,integer}	Wyniki {0,number,integer}-{1,number,integer} z {2,number,integer}

@@ -1,11 +1,11 @@
-~~Your device has been connected to <b>{0}</b>, using the Wi-Fi credentials that you previously saved to Amazon. <ul>Learn More</ul>	
-By tapping ”Continue with this account” or ”Use a different account”, you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.~~	
-CONTINUE	
-CONTINUE WITH THIS ACCOUNT	
-Hello {0}	
-Tap here to adjust this.	
-The local time zone will be set using the Wi-Fi or mobile networks detected by your Kindle.	
-USE A DIFFERENT ACCOUNT	
-Your Kindleʼs time has been adjusted to {0,time,short}.	
-Your Kindleʼs time is set to {0,time,short}.	
-here	
+~~Your device has been connected to <b>{0}</b>, using the Wi-Fi credentials that you previously saved to Amazon. <ul>Learn More</ul>	~~Twoje urządzenie zostało podłączone do <b>{0}</b> przy użyciu danych Wi-Fi, które wcześniej zapisałeś w Amazon. <ul>Dowiedz się więcej</ul>
+By tapping ”Continue with this account” or ”Use a different account”, you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.~~	Naciskając „Kontynuuj na tym koncie” lub „Użyj innego konta”, akceptujesz Warunki użytkowania Amazon i wszystkie warunki znajdujące się na stronie www.amazon.com/devicesupport. Zobacz informacje o polityce prywatności Amazon na stronie www.kindle.com/support/privacy.~~
+CONTINUE	KONTYNUUJ
+CONTINUE WITH THIS ACCOUNT	KONTYNUUJ NA TYM KONCIE
+Hello {0}	Cześć {0}
+Tap here to adjust this.	Dotknij tutaj, aby zmienić.
+The local time zone will be set using the Wi-Fi or mobile networks detected by your Kindle.	Lokalna strefa czasowa na czytniku zostanie ustawiona według lokalizacji wykrytej przez Wi-Fi lub 3G.
+USE A DIFFERENT ACCOUNT	UŻYJ INNEGO KONTA
+Your Kindleʼs time has been adjusted to {0,time,short}.	Czas Twojego Kindle został zmieniony na {0,time,short}.
+Your Kindleʼs time is set to {0,time,short}.	Czas Twojego Kindle został ustawiony na {0,time,short}.
+here	tutaj

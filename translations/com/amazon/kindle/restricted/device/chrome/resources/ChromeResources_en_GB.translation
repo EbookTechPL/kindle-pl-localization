@@ -1,92 +1,92 @@
-(Charging from Cover)	
-(Charging from USB)	
-Aeroplane Mode	
-Aeroplane Mode On	
-All Settings	
-Auto Brightness	
-Auto Brightness {0, select, true { On } other { Off }}	
-BATTERY	
-BRIGHTNESS	
-Back	
-Badges	
-Bars	
-Battery 	
-Bluetooth On	
-Brightness limited when device is cold.	
-Brightness {0} of {1}. Decrease Brightness	
-Brightness {0} of {1}. Increase Brightness	
-CLOSE	
-Character	
-Clear History	
-Connected	
-Connecting	
-Connecting to Bluetooth device	
-Cover	
-Exit	
-Forward	
-Go to Discovery	
-Go to Home	
-Highlights	
-Home	
-Index Items	
-Kindle Search	
-MAX	
-Max Brightness	
-Menu	
-No Network Service	
-Off	
-On	
-Parental Controls Enabled	
-Quick Actions	
-Recent Searches	
-Schedule	
-Schedule off until sunset	
-Schedule off until {0,time,short}	
-Schedule on until sunrise	
-Schedule on until {0,time,short}	
-Screen Reader On	
-Search	
-Search Audible Store	
-Search Audible Store for "{0}"	
-Search Dictionary	
-Search Everywhere	
-Search Everywhere for "{0}"	
-Search Goodreads	
-Search Kindle Store	
-Search Kindle Store for "{0}"	
-Secondary Battery 	
-Sections	
-Shop in Kindle Store	
-Signal Strength 	
-Signal Strength {0} Bars	
-Store	
-Sync Your Kindle	
-There are no recent searches.	
-There are no results found in Audible Store.	
-There are no results found in Goodreads.	
-There are no results found in Store.	
-There are no results found in your library or the store.	
-There are no results found in your library.	
-VoiceView Settings	
-WAN Connected 2G	
-WAN Connected 3G	
-WAN Connected 4G	
-WAN Connected Edge	
-WARMTH	
-Warm Light {0, select, true { On } other { Off }}	
-Warmth at {0} of {1}. Decrease warmth.	
-Warmth at {0} of {1}. Increase warmth.	
-Wi-Fi Connected. Signal Strength {0} Bars	
-Your Kindle is not registered. Please go to Settings to register. For help, contact Kindle Customer Service at www.kindle.com/support.	
-back	
-characters	
-forward	
-highlights	
-home	
-not charging 	
-progress	
-sections	
-settings	
-store	
-{0}{1} percent 	
-{0}{1} percent charging 	
+(Charging from Cover)	(Ładowanie przez okładkę)
+(Charging from USB)	(Ładowanie przez USB)
+Aeroplane Mode	Tryb samolotowy
+Aeroplane Mode On	Tryb samolotowy Wł.
+All Settings	Wszystkie ustawienia
+Auto Brightness	Oświetlenie automatyczne
+Auto Brightness {0, select, true { On } other { Off }}	Oświetlenie automatyczne {0, select, true { Wł. } other { Wył. }}
+BATTERY	BATERIA
+BRIGHTNESS	JASNOŚĆ
+Back	wstecz
+Badges	Odznaki
+Bars	Kreski
+Battery 	Bateria
+Bluetooth On	Bluetooth Wł.
+Brightness limited when device is cold.	Oświetlenie ograniczone jest przy zimnym czytniku.
+Brightness {0} of {1}. Decrease Brightness	Oświetlenie {0} z {1}. Zmniejsz jasność
+Brightness {0} of {1}. Increase Brightness	Oświetlenie {0} z {1}. Zwiększ jasność
+CLOSE	ZAMKNIJ
+Character	Znak
+Clear History	Wyczyść historię
+Connected	Połączono
+Connecting	Połączenia
+Connecting to Bluetooth device	Połączenie z urządzeniem Bluetooth
+Cover	Okładka
+Exit	Wyjście
+Forward	do przodu
+Go to Discovery	Idź do Odkrywania
+Go to Home	Idź do ekranu głównego
+Highlights	Podkreślenia
+Home	Ekran główny
+Index Items	Indeks pozycji
+Kindle Search	Szukaj w Kindle
+MAX	MAX
+Max Brightness	Maks. jasność
+Menu	Menu
+No Network Service	Brak usług sieciowych
+Off	Wył.
+On	Wł.
+Parental Controls Enabled	Kontrola rodzicielska włączona
+Quick Actions	Szybki dostęp
+Recent Searches	Ostatnie wyszukiwania
+Schedule	Harmonogram
+Schedule off until sunset	Zaplanuj do zachodu słońca
+Schedule off until {0,time,short}	Zaplanuj do {0,time,short}
+Schedule on until sunrise	Zaplanuj do wschodu słońca
+Schedule on until {0,time,short}	Zaplanuj do {0,time,short}
+Screen Reader On	Czytanie z ekranu Wł.
+Search	Szukaj
+Search Audible Store	Szukaj w sklepie Audible
+Search Audible Store for "{0}"	Szukaj w sklepie Audible „{0}”
+Search Dictionary	Szukaj w słowniku
+Search Everywhere	Szukaj wszędzie
+Search Everywhere for "{0}"	Szukaj wszędzie „{0}”
+Search Goodreads	Szukaj w Goodreads
+Search Kindle Store	Szukaj w sklepie Kindle
+Search Kindle Store for "{0}"	Szukaj w sklepie Kindle „{0}”
+Secondary Battery 	Druga bateria
+Sections	Działy
+Shop in Kindle Store	Zakupy w sklepie Kindle
+Signal Strength 	Siła sygnału
+Signal Strength {0} Bars	Siła sygnału {0} kresek
+Store	Sklep
+Sync Your Kindle	Synchronizuj
+There are no recent searches.	Brak ostatnich wyszukiwań.
+There are no results found in Audible Store.	Brak wyników w sklepie Audible.
+There are no results found in Goodreads.	Brak wyników w Goodreads.
+There are no results found in Store.	Brak wyników w sklepie.
+There are no results found in your library or the store.	Brak wyników w bibliotece lub sklepie.
+There are no results found in your library.	Brak wyników w bibliotece.
+VoiceView Settings	Ustawienia VoiceView
+WAN Connected 2G	Połączenie WAN 2G
+WAN Connected 3G	Połączenie WAN 3G
+WAN Connected 4G	Połączenie WAN 4G
+WAN Connected Edge	Połączenie WAN Edge
+WARMTH	CIEPŁO
+Warm Light {0, select, true { On } other { Off }}	Ciepłe światło {0, select, true { Wł. } other { Wył. }}
+Warmth at {0} of {1}. Decrease warmth.	Ciepło na {0} z {1}. Zmniejsz ciepło.
+Warmth at {0} of {1}. Increase warmth.	Ciepło na {0} z {1}. Zwiększ ciepło.
+Wi-Fi Connected. Signal Strength {0} Bars	Połączenie Wi-Fi. Siła sygnału {0} kresek
+Your Kindle is not registered. Please go to Settings to register. For help, contact Kindle Customer Service at www.kindle.com/support.	Twój Kindle nie jest zarejestrowany. Zarejestruj czytnik. W razie problemów skontaktuj się pomocą na www.kindle.com/support.
+back	wstecz
+characters	postacie
+forward	naprzód
+highlights	podkreślenia
+home	główna
+not charging 	nie ładuje
+progress	postęp
+sections	działy
+settings	ustawienia
+store	sklep
+{0}{1} percent 	{0}{1} procent
+{0}{1} percent charging 	{0}{1} procent naładowania

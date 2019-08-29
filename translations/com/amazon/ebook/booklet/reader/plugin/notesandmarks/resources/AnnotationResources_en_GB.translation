@@ -1,34 +1,34 @@
-All	
-All Notes & Marks ({0,number,integer})	
-Bookmarks	
-Delete	
-Edit	
-Go	
-Go To	
-Go to Location	
-Highlights	
-Items {0,number,integer} of {1,number,integer}	
-Items {0,number,integer}-{1,number,integer} of {2,number,integer}	
-Note {0}	
-Notes	
-Notes & Marks	
-Notes & Marks ({0,number,integer}) ·	
-Popular Highlights	
-Popular Highlights ({0,number,integer})	
-Public Notes	
-Public Notes ({0,number,integer})	
-Public Notes from {0}.	
-Show	
-Show...	
-View Notes & Marks	
-Your Bookmarks ({0,number,integer})	
-Your Highlights ({0,number,integer})	
-Your Notes & Marks ({0,number,integer})	
-Your Notes ({0,number,integer})	
-Yours	
-{0,number,integer} of {1,number,integer}	
-{0} - {1}	
-{0} highlighted this passage.	
-{0} · Page {1} - {2}	
-{0}’s Highlight	
-{0}’s Note	
+All	Wszystko
+All Notes & Marks ({0,number,integer})	Wszystkie notatki i podkreślenia ({0,number,integer})
+Bookmarks	Zakładki
+Delete	Usuń
+Edit	Edytuj
+Go	Idź
+Go To	Idź do
+Go to Location	Idź do lokacji
+Highlights	Podkreślenia
+Items {0,number,integer} of {1,number,integer}	Pozycje {0,number,integer} z {1,number,integer}
+Items {0,number,integer}-{1,number,integer} of {2,number,integer}	Pozycje {0,number,integer}–{1,number,integer} z {2,number,integer}
+Note {0}	Notatka {0}
+Notes	Notatki
+Notes & Marks	Notatki i podkreślenia
+Notes & Marks ({0,number,integer}) ·	Notatki i podkreślenia ({0,number,integer}) ·
+Popular Highlights	Popularne podkreślenia
+Popular Highlights ({0,number,integer})	Popularne podkreślenia ({0,number,integer})
+Public Notes	Publiczne notatki
+Public Notes ({0,number,integer})	Publiczne notatki ({0,number,integer})
+Public Notes from {0}.	Publiczne notatki z {0}.
+Show	Pokaż
+Show...	Pokaż...
+View Notes & Marks	Zobacz notatki i podkreślenia
+Your Bookmarks ({0,number,integer})	Twoje zakładki ({0,number,integer})
+Your Highlights ({0,number,integer})	Twoje podkreślenia ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	Twoje notatki i podkreślenia ({0,number,integer})
+Your Notes ({0,number,integer})	Twoje notatki ({0,number,integer})
+Yours	Twoje
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
+{0} - {1}	{0}–{1}
+{0} highlighted this passage.	{0} podkreślił(a) ten fragment.
+{0} · Page {1} - {2}	{0} · Strona {1}–{2}
+{0}’s Highlight	Podkreślenie {0}
+{0}’s Note	Notatka {0}

@@ -1,16 +1,16 @@
-ALLOW	
-Allow location access	
-Automatic	
-Customise the amount of warmth for the scheduled time. Press and hold on the level desired to preview warmth.	
-DONʼT ALLOW	
-End at:	
-Gradually changes with sunset and sunrise.	
-Manual	
-Schedule	
-Set Warmth	
-Start at:	
-Warmth Schedule	
-Warmth at {0} of {1}. Decrease warmth	
-Warmth at {0} of {1}. Increase warmth	
-Weʼll use your deviceʼs location to change warmth with sunrise and sunset to provide a comfortable reading experience. You can change this behaviour anytime by selecting Manual or turning off the schedule. Location access requires internet connection.	
-When the schedule is enabled, warm amber will be added to the front light until scheduled warmth ends.	
+ALLOW	ZEZWÓL
+Allow location access	Zezwól na dostęp do lokalizacji
+Automatic	Automatycznie
+Customise the amount of warmth for the scheduled time. Press and hold on the level desired to preview warmth.	Dostosuj ilość ciepła dla zaplanowanego czasu. Naciśnij i przytrzymaj żądany poziom, aby wyświetlić podgląd ciepła.
+DONʼT ALLOW	NIE ZEZWALAJ
+End at:	Koniec na:
+Gradually changes with sunset and sunrise.	Stopniowo zmienia się wraz z zachodem i wschodem słońca.
+Manual	Ręcznie
+Schedule	Hormonogram
+Set Warmth	Ustaw ciepło
+Start at:	Początek na:
+Warmth Schedule	Harmonogram ciepła
+Warmth at {0} of {1}. Decrease warmth	Ciepło na {0} z {1}. Zmniejsz ciepło.
+Warmth at {0} of {1}. Increase warmth	Ciepło na {0} z {1}. Zwiększ ciepło.
+Weʼll use your deviceʼs location to change warmth with sunrise and sunset to provide a comfortable reading experience. You can change this behaviour anytime by selecting Manual or turning off the schedule. Location access requires internet connection.	Wykorzystamy lokalizację Twojego urządzenia, aby zmienić ciepło wraz ze wschodem i zachodem słońca, aby zapewnić wygodne czytanie. Możesz zmienić to zachowanie w dowolnym momencie, wybierając Ręcznie lub wyłączając harmonogram. Dostęp do lokalizacji wymaga połączenia z Internetem.
+When the schedule is enabled, warm amber will be added to the front light until scheduled warmth ends.	Po włączeniu harmonogramu do przedniego światła zostanie dodany ciepły bursztyn, dopóki nie skończy się zaplanowane ciepło.

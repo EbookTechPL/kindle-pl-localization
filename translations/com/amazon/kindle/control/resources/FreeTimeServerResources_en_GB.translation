@@ -1,8 +1,8 @@
-Limit Reached	
-Server Error	
-The name you entered included characters that are not supported. Please enter the name again.	
-Unsupported Characters	
-Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	
-You have reached the limit of adult profiles allowed for {0}.	
-You have reached the limit of children allowed for {0}.	
-{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems editing profiles, please try again later.} }	
+Limit Reached	Limit został osiągnięty
+Server Error	Błąd serwera
+The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
+Unsupported Characters	Niedozwolone znaki
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z {0}. Prosimy spróbować później.
+You have reached the limit of adult profiles allowed for {0}.	Osiągnąłeś limit profili dla dorosłych dozwolony w {0}.
+You have reached the limit of children allowed for {0}.	Osiągnąłeś limit profili dla dzieci dozwolony w {0}.
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.} update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.} other { Weʼre currently experiencing problems editing profiles, please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.} update { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.} other { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} }

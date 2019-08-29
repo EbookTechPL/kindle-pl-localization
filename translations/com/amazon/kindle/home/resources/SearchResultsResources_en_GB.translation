@@ -1,25 +1,25 @@
-Audible Store	
-Audible Store ({0,number,integer})	
-Dictionary	
-Items Not Yet Indexed	
-Items Not Yet Indexed ({0,number,integer})	
-Kindle Store	
-Kindle Store ({0,number,integer})	
-Memory Full	
-SEARCH RESULTS	
-Search Results	
-Search Results for "{0}"	
-Search Summary	
-See All 	
-Showing {0, number, integer}	
-TEXT IN BOOKS	
-Text in Books	
-Text in Books ({0,number,integer})	
-There werenʼt any content matches in your library for "{0}".	
-There werenʼt any title or author matches in your library for "{0}".	
-Your Items	
-Your Items ({0})	
-Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.	
-{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	
-{0, select, 1 {{1}} other {Other References}}	
-{0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}	
+Audible Store	Sklep Audible
+Audible Store ({0,number,integer})	Sklep Audible ({0,number,integer})
+Dictionary	Słownik
+Items Not Yet Indexed	Pozycje nie są jeszcze zindeksowane
+Items Not Yet Indexed ({0,number,integer})	Pozycje jeszcze niezindeksowane {0,number,integer})
+Kindle Store	Sklep Kindle
+Kindle Store ({0,number,integer})	Sklep Kindle ({0,number,integer})
+Memory Full	Pamięć pełna
+SEARCH RESULTS	WYNIKI WYSZUKIWANIA
+Search Results	Wyniki wyszukiwania
+Search Results for "{0}"	Wyniki wyszukiwania dla „{0}”
+Search Summary	Podsumowanie wyszukiwania
+See All 	Zobacz wszystkie 
+Showing {0, number, integer}	Pokazuję {0, number, integer}
+TEXT IN BOOKS	TEKST W KSIĄŻKACH
+Text in Books	Tekst w książkach
+Text in Books ({0,number,integer})	Tekst w książkach ({0,number,integer})
+There werenʼt any content matches in your library for "{0}".	W Twojej bibliotece nie znaleziono żadnych treści pasujących dla „{0}”.
+There werenʼt any title or author matches in your library for "{0}".	W Twojej bibliotece nie znaleziono żadnych tytułów lub autorów pasujących dla „{0}”.
+Your Items	Twoje pozycje
+Your Items ({0})	Twoje pozycje ({0})
+Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.	Twoje wyszukiwanie nie powiodło się ponieważ pamięć Twojego Kindle jest pełna. Usuń niektóre pozycje z ekranu głównego, aby zwiększyć dostępną pamięć na czytniku.
+{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {słowników} 1 {Słownik i {1}} other {Słownik i odniesienia}}
+{0, select, 1 {{1}} other {Other References}}	{0, select, 1 {{1}} other {Inne odniesienia}}
+{0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}	{0,select,empty {Brak wyników} loading {Ładowanie wyników…} connectionerror {Podłącz do sieci } error {Problem podczas ładowania wyników} other {}}

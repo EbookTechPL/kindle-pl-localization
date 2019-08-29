@@ -1,16 +1,16 @@
-All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 	
-Limit Reached	
-Merging Households	
-Server Error	
-The name you entered included characters that are not supported. Please enter the name again.	
-This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
-This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
-This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.	
-This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
-This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
-Unable to Add	
-Unsupported Characters	
-Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	
-You have reached the limit of adult profiles allowed for {0}.	
-You have reached the limit of children allowed for {0}.	
-{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems, please try again later.} }	
+All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 	Wszyscy dorośli w tej Rodzinie muszą posiadać ten sam kraj pobytu w Preferred Marketplace. Proszę zmienić ustawienia swojego konta Amazon, aby zachować zgodność z innymi dorosłymi tej Rodziny i spróbować ponownie.
+Limit Reached	Limit został osiągnięty
+Merging Households	Łączenie Rodzin
+Server Error	Błąd serwera
+The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
+This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon należy już do innej rodziny i nie może być dodane. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon należy do innej Rodziny. Łączenie tej rodziny przekroczyłoby limit 4 dziecięcych profili i nie może zostać zakończone. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.	To konto Amazon należy do innej Rodziny i nie może być dodane. Każdy dorosły w rodzinie musi posiadać unikatowe konto Amazon.
+This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon było częścią innej rodziny w ostatnich 180 dniach i nie może być dodane. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	Ta rodzina ma innego dorosłego dodanego w ostatnich 180 dniach, więc nowy dorosły nie może być dodany. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+Unable to Add	Nie udało się dodać
+Unsupported Characters	Niedozwolone znaki
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	Przepraszamy, wystąpił błąd podczas wyłączania subskrypcji {0}. Proszę spróbować później.
+You have reached the limit of adult profiles allowed for {0}.	Osiągnąłeś limit profili dla dorosłych dozwolony w {0}.
+You have reached the limit of children allowed for {0}.	Osiągnąłeś limit profili dla dzieci dozwolony w {0}.
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.} update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.} other { Weʼre currently experiencing problems, please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.} update { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.} other { Aktualnie występują problemy. Spróbuj ponownie później.} }

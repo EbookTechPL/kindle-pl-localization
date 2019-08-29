@@ -1,25 +1,25 @@
-Amazon Purchases	
-Are you sure youʼre done?	
-Download Free Samples	
-Edit Favourite Genres	
-Edit Genres	
-First, pick some genres.	
-Goodreads learns about your personal taste from your ratings and then generates unique recommendations that are just for you.~~You need to rate at least 10 books to get personalised recommendations. Youʼve rated {0,plural,=0 {no books} one {{0,number,integer} book} other {{0,number,integer} books} } so far.	
-Here are books we think you’ll love.	
-Here are genres youʼve selected. Tap a selected genre to remove it or add more to get personalised recommendations.	
-Here are samples of books you marked Want to Read.~~You can find your downloaded samples on your Kindle Home screen.	
-Here are some suggestions based on your ratings.~~See a book you like? Tap "Want to Read."	
-IʼM DONE	
-KEEP RATING	
-Now rate some more books.	
-Now, rate books in those genres.	
-Personalised Recommendations	
-Please select at least one genre.	
-Rate at least 10 books to get personalised recommendations.	
-Rate more books to improve your recommendations.	
-Select All	
-Select your favourite genres to get personalised recommendations.	
-Similar to "{0}"	
-Tell us about your favourite genres	
-Unselect All	
-Welcome to Goodreads, {0}!	
+Amazon Purchases	Zakupy na Amazon
+Are you sure youʼre done?	Czy na pewno chcesz skończyć?
+Download Free Samples	Pobierz darmowe próbki
+Edit Favourite Genres	Edytuj ulubione gatunki
+Edit Genres	Edytuj gatunki
+First, pick some genres.	Najpierw wybierz kilka gatunków.
+Goodreads learns about your personal taste from your ratings and then generates unique recommendations that are just for you.~~You need to rate at least 10 books to get personalised recommendations. Youʼve rated {0,plural,=0 {no books} one {{0,number,integer} book} other {{0,number,integer} books} } so far.	Goodreads dowiaduje się o Twoich osobistych gustach na podstawie Twoich ocen, a następnie generuje dla ciebie unikalne rekomendacje. ~~ Trzeba ocenić co najmniej 10 książek, aby uzyskać spersonalizowane rekomendacje. Oceniłeś {0,plural,=0 {0 książek} one {{0,number,integer}} książkę} other {książki: {0,number,integer}}} do tej pory.
+Here are books we think you’ll love.	Myślimy, że pokochasz te książki.
+Here are genres youʼve selected. Tap a selected genre to remove it or add more to get personalised recommendations.	Oto gatunki, które wybrałeś. Zaznacz wybrany gatunek, aby go usunąć lub dodaj więcej gatunków, aby uzyskać spersonalizowane rekomendacje.
+Here are samples of books you marked Want to Read.~~You can find your downloaded samples on your Kindle Home screen.	Oto próbki książek, które oznaczyłeś jako „Chcę przeczytać”.~~Możesz znaleźć pobrane próbki na ekranie głównym Kindle.
+Here are some suggestions based on your ratings.~~See a book you like? Tap "Want to Read."	Oto sugestie na podstawie Twoich ocen. ~~ Widzisz książkę, która Ci się podoba? Wybierz „Chcę przeczytać”.
+IʼM DONE	SKOŃCZYŁEM
+KEEP RATING	POZOSTAW OCENĘ
+Now rate some more books.	Teraz oceń jeszcze kilka książek.
+Now, rate books in those genres.	Teraz oceń książki w tych gatunkach.
+Personalised Recommendations	Spersonalizowane rekomendacje
+Please select at least one genre.	Proszę wybrać przynajmniej jeden gatunek.
+Rate at least 10 books to get personalised recommendations.	Oceń co najmniej 10 książek, aby uzyskać spersonalizowane rekomendacje.
+Rate more books to improve your recommendations.	Oceń więcej książek w celu poprawy rekomendacji dla ciebie.
+Select All	Wybierz wszystkie
+Select your favourite genres to get personalised recommendations.	Wybierz swoje ulubione gatunki, aby uzyskać spersonalizowane rekomendacje.
+Similar to "{0}"	Podobne do „{0}”
+Tell us about your favourite genres	Opowiedz nam o swoich ulubionych gatunkach
+Unselect All	Odznacz wszystkie
+Welcome to Goodreads, {0}!	Witamy w Goodreads, {0}!

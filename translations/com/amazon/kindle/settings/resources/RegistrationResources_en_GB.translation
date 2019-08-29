@@ -1,12 +1,12 @@
-Create a new account	
-Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.	
-Deregister Device	
-Deregister your Kindle from your Amazon account.	
-Household and Family Library	
-It is taking longer than expected to register your Kindle. Please continue to use your Kindle while we register it in the background.	
-Register your Kindle	
-Registering Your Kindle	
-Registration	
-To view all of your reading content, register your Kindle to your Amazon account.~~~~By tapping "Use an existing Amazon account" or "Create a new account", you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.	
-Use an existing Amazon account	
-{0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}	
+Create a new account	Załóż nowe konto
+Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.	Utwórz i zarządzaj swoją Rodziną przy udostępnianiu książek i innych zasobów cyfrowych przez urządzenia i aplikacje Amazona.
+Deregister Device	Wyrejestruj czytnik
+Deregister your Kindle from your Amazon account.	Wyrejestruj swojego Kindle z Twojego konta Amazon
+Household and Family Library	Rodzina i Biblioteka rodzinna
+It is taking longer than expected to register your Kindle. Please continue to use your Kindle while we register it in the background.	Rejestracja Twojego Kindle trwa dłużej niż oczekiwano. Kontynuuj korzystanie ze swojego Kindle, a my go spróbujemy zarejestrować w tle.
+Register your Kindle	Zarejestruj swojego Kindle
+Registering Your Kindle	Zarejestruj swojego Kindle
+Registration	Rejestracja
+To view all of your reading content, register your Kindle to your Amazon account.~~~~By tapping "Use an existing Amazon account" or "Create a new account", you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.	Aby wyświetlić całą zawartość do czytania, zarejestruj swój Kindle na swoim koncie Amazon.~~~~Dotykając „Użyj istniejącego konta Amazon” lub „Utwórz nowe konto”, akceptujesz Warunki użytkowania Amazon i wszystkie warunki znajdujące się na www.amazon.com/devicesupport. Zobacz informacje o polityce prywatności Amazon na stronie www.kindle.com/support/privacy.
+Use an existing Amazon account	Użyj istniejącego konta Amazon
+{0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}	{0,plural, =0 {Brak profilów dorosłych} one {{0, number, integer} dorosły} other {{0, number, integer} dorosłych}}{1,plural, =0 {} one { and {1, number, integer} dziecko} other { and {1, number, integer} dzieci}}

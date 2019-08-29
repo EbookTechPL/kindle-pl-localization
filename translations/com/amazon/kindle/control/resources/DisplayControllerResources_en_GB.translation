@@ -1,24 +1,24 @@
-AUTHOR	
-COLLECTION	
-Collection	
-DATE	
-DATE (REVERSE)	
-Done	
-FILTER	
-Filter Menu	
-Home	
-Library	
-MEMBER COUNT	
-NUMBER OF HITS	
-Periodical Collection	
-RECENT	
-RELEVANCE	
-SERIES	
-SERIES (REVERSE)	
-SORT	
-Series	
-Settings	
-Sort Menu	
-TITLE	
-{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	
-{0} showing {1, number, integer}	
+AUTHOR	WG AUTORA
+COLLECTION	WG KOLEKCJI
+Collection	Kolekcja
+DATE	WG DATY
+DATE (REVERSE)	WG DATY (ODWROTNIE)
+Done	Gotowe
+FILTER	FILTRUJ
+Filter Menu	Menu filtrowania
+Home	Ekran główny
+Library	Biblioteka
+MEMBER COUNT	WG LICZBY POZYCJI
+NUMBER OF HITS	WG LICZBY TRAFIEŃ
+Periodical Collection	Kolekcja czasopism
+RECENT	WG DATY OTWARCIA
+RELEVANCE	WG ZWIĄZKU Z TEMATEM
+SERIES	WF SERII
+SERIES (REVERSE)	WG SERII (ODWROTNIE)
+SORT	SORTUJ
+Series	Serie
+Settings	Ustawienia
+Sort Menu	Menu sortowania
+TITLE	WG TYTUŁU
+{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	{0,choice,0#1 z 1|2#{1,number,integer} z {2,number,integer}}
+{0} showing {1, number, integer}	{0} wyświetlanie {1, number, integer}

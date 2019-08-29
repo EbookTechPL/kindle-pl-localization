@@ -1,83 +1,83 @@
- Get New Code	
-<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0} free{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	
-<html>For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.<br/>&nbsp;<br/>www.amazon.com/code<br/>&nbsp;<br/>{0}<br/>&nbsp;<br/>To get the code, go to the next page. </html>	
-Add New Adult	
-Already signed up to an account using WeChat? You can sign in with your mobile phone number and password. If you do not have a password, set it at https://www.amazon.cn/password.	
-Amazon ID	
-An error occurred while trying to connect to the server. Please check your Internet connection or try again later.~~~~If the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	
-Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?	
-Are you sure you want to unlink your account?~~~~You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > edit profile > settings before you unlink.	
-Authentication Help	
-BACK	
-CANCEL	
-CLOSE	
-DELETE	
-DEREGISTER	
-DISABLE	
-Delete Wi-Fi Passwords	
-Deregister Your Kindle	
-Deregistering Your Kindle…	
-Device Info	
-Device Name	
-Do you want to restart your Kindle?~~~~This may take several minutes.	
-E-mail or Phone Number	
-ENABLE	
-Enter this verification code on the Amazon website to register this Kindle. The code will be valid for 10 minutes.	
-Enter your Amazon account information.	
-Enter your Amazon password	
-Firmware Version: 	
-First Name	
-For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.	
-For help, please contact Kindle Customer Service at www.amazon.com/devicesupport.	
-Gender	
-Hide Password	
-Incorrect password. Please try again	
-Join Household	
-Language	
-Learn More	
-NEXT	
-NEXT	
-Network Capability: 	
-Password	
-Personalise your Kindle by giving it a name that appears on the Home screen.	
-Please log in to Goodreads.com and unlink your Facebook account under "Edit Profile > apps"	
-Power Saver	
-Power Saver is a low-power sleep mode for when this Kindle is not in use. Disabling Power Saver makes your Kindle turn on faster for every reading session, but you will need to charge more frequently.	
-Privacy	
-REGISTER	
-Register Your Kindle	
-Registering Your Kindle…	
-Registration Failed	
-Registration Help	
-Restart	
-SAVE	
-Serial Number: 	
-Sign In for {0}	
-Space Available: 	
-TRY AGAIN	
-The information you entered does not match an Amazon account. Please try again.~~~~For help please contact Kindle Customer Service at amazon.com/devicesupport.	
-There was an error while authenticating your account. Please try again later.	
-There was an error whilst deregistering your device. Please try again later.	
-There was an error whilst registering your Kindle. Please try again later.	
-To get the code, go to the next page.	
-UNLINK	
-Unable to Connect	
-Unavailable	
-Verify Account	
-WHATʼS NEW	
-We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.	
-We use data about your use of this device to provide customised marketing offers you might enjoy and to improve our products and services for all users. You can opt out of allowing us to use personal data collected by the operating system of this device for these purposes by disabling this setting. Disabling this setting will not affect: (1) your ability to use the features of this device, as we will continue to collect and process your data to deliver those features to you; or (2) whether you receive marketing offers, though those offers may be less relevant to you.	
-Whispersync for Books	
-Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazonʼs servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	
-Wi-Fi + 3G (4G LTE in US)	
-Wi-Fi + LTE (where available) + 3G	
-Wi-Fi MAC Address: 	
-Your Amazon account will no longer be linked with your Facebook account.	
-Your Amazon account will no longer be linked with your Twitter account.	
-Your Amazon account will no longer be linked with your Weibo account.	
-Your Kindle is currently unable to connect. Please make sure you are within wireless range and try again. If the problem persists, restart your Kindle from Menu in Settings and try again.	
-Your Kindle will be deregistered from your Amazon account, some features will not work and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	
-Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	
-{0,select, facebook {Unlink Facebook} twitter {Unlink Twitter} goodreads {Unlink Goodreads} weibo {Unlink Sina Weibo} other {}}	
-{0} free	
-BACK	
+ Get New Code	 Uzyskaj nowy kod
+<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0} free{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>MAC adres karty Wi-Fi:</b>&nbsp;{1}<br/><b>Numer seryjny:</b>&nbsp;{2}<br/><b>Rodzaj sieci:</b>&nbsp;{3}<br/><b>Wersja oprogramowania:</b>&nbsp;{4}<br/><b>Wersja polska:</b>&nbsp;https://ebooktech.pl<br/><b>Wolne miejsce:</b>&nbsp;{0} wolne{5,select, 0 {} 1 {<br/><b>ID polisy:</b>&nbsp;{6}} other{}}</html>
+<html>For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.<br/>&nbsp;<br/>www.amazon.com/code<br/>&nbsp;<br/>{0}<br/>&nbsp;<br/>To get the code, go to the next page. </html>	<html>Aby uzyskać dodatkowe zabezpieczenie konta, odwiedź poniższą witrynę Amazon na telefonie komórkowym, tablecie lub komputerze i zaloguj się.<br/>&nbsp;<br/>www.amazon.com/code<br/>&nbsp;<br/> {0}<br/>&nbsp;<br/>Aby uzyskać kod, przejdź do następnej strony.</html>
+Add New Adult	Dodaj nowe konto dorosłego
+Already signed up to an account using WeChat? You can sign in with your mobile phone number and password. If you do not have a password, set it at https://www.amazon.cn/password.	Już zarejestrowałeś swoje konto w usłudze WeChat? Możesz zalogować się za pomocą numeru telefonu komórkowego i hasła. Jeśli nie masz hasła, przejdź na https://www.amazon.cn/password.
+Amazon ID	Identyfikator w Amazon
+An error occurred while trying to connect to the server. Please check your Internet connection or try again later.~~~~If the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Wystąpił błąd podczas próby połączenia z serwerem. Sprawdź połączenie internetowe lub spróbuj ponownie później.~~~~Jeśli problem będzie się powtarzał, skontaktuj się z działem obsługi klienta Kindle pod adresem www.amazon.com/devicesupport.
+Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?	Na pewno chcesz usunąć wszystkie hasła Wi-Fi zapisane w Amazonie z tego czytnika?
+Are you sure you want to unlink your account?~~~~You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > edit profile > settings before you unlink.	Czy na pewno chcesz odłączyć swoje konto?~~~~Nie będziesz już mieć dostępu do Goodreads z loginem Amazon. Aby zachować to konto, proszę ustawić hasło Goodreads na goodreads.com > Edit Profile > Settings przed odłączeniem.
+Authentication Help	Pomoc dla autoryzacji
+BACK	WSTECZ
+CANCEL	ANULUJ
+CLOSE	ZAMKNIJ
+DELETE	USUŃ
+DEREGISTER	WYREJESTRUJ
+DISABLE	WYŁĄCZ
+Delete Wi-Fi Passwords	Usuń zapisane hasła Wi-Fi
+Deregister Your Kindle	Wyrejestruj swojego Kindle
+Deregistering Your Kindle…	Wyrejestrowuję Kindle...
+Device Info	Informacje o czytniku
+Device Name	Nazwa czytnika
+Do you want to restart your Kindle?~~~~This may take several minutes.	Czy chcesz ponownie uruchomić swojego Kindle?~~~~Może to zająć kilka minut.
+E-mail or Phone Number	Adres e-mail lub numer telefonu
+ENABLE	WŁĄCZ
+Enter this verification code on the Amazon website to register this Kindle. The code will be valid for 10 minutes.	Wpisz ten kod weryfikacyjny na stronie Amazon, aby zarejestrować ten Kindle. Kod będzie ważny przez 10 minut.
+Enter your Amazon account information.	Wprowadź dane Twojego konta Amazon.
+Enter your Amazon password	Wprowadź swoje hasło Amazon
+Firmware Version: 	Wersja oprogramowania:
+First Name	Imię
+For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.	Aby uzyskać dodatkowe zabezpieczenie konta, odwiedź poniższą stronę Amazon na telefonie komórkowym, tablecie lub komputerze i zaloguj się.
+For help, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Aby uzyskać pomoc, skontaktuj się z obsługą klienta Kindle pod adresem www.amazon.com/devicesupport.
+Gender	Płeć
+Hide Password	Ukryj hasło
+Incorrect password. Please try again	Nieprawidłowe hasło. Spróbuj ponownie
+Join Household	Dołącz do Rodziny
+Language	Język
+Learn More	Dowiedz się więcej
+NEXT	DALEJ
+NEXT	DALEJ
+Network Capability: 	Możliwości sieciowe:
+Password	Hasło
+Personalise your Kindle by giving it a name that appears on the Home screen.	Spersonalizuj swojego Kindle nadając mu nazwę, która pojawi się na ekranie głównym.
+Please log in to Goodreads.com and unlink your Facebook account under "Edit Profile > apps"	Zaloguj się w goodreads.com i odłącz swoje konto w serwisie Facebook pod „Ustawienia > Aplikacje”
+Power Saver	Oszczędzanie energii
+Power Saver is a low-power sleep mode for when this Kindle is not in use. Disabling Power Saver makes your Kindle turn on faster for every reading session, but you will need to charge more frequently.	Oszczędzanie energii to tryb uśpienia z niskim zużyciem energii, gdy nie używa się tego Kindle. Wyłączenie oszczędzania energii powoduje, że Kindle włącza się szybciej podczas każdej sesji czytania, ale będziesz musiał ładować częściej.
+Privacy	Prywatność
+REGISTER	ZAREJESTRUJ
+Register Your Kindle	Zarejestruj swojego Kindle
+Registering Your Kindle…	Rejestruję Twojego Kindle...
+Registration Failed	Rejestracja nie powiodła się
+Registration Help	Pomoc przy rejestracji
+Restart	Uruchom ponownie
+SAVE	ZAPISZ
+Serial Number: 	Numer seryjny:
+Sign In for {0}	Zaloguj się do {0}
+Space Available: 	Dostępne miejsce:
+TRY AGAIN	SPRÓBUJ PONOWNIE
+The information you entered does not match an Amazon account. Please try again.~~~~For help please contact Kindle Customer Service at amazon.com/devicesupport.	Podane informacje nie pasują do konta Amazon. Spróbuj ponownie.~~~~Aby uzyskać pomoc, skontaktuj się z obsługą klienta Kindle pod adresem amazon.com/devicesupport.
+There was an error while authenticating your account. Please try again later.	Wystąpił problem w trakcie autoryzacji Twojego konta. Spróbuj ponownie później.
+There was an error whilst deregistering your device. Please try again later.	Podczas wyrejestrowania Kindle wystąpił błąd. Spróbuj ponownie później.
+There was an error whilst registering your Kindle. Please try again later.	Podczas rejestracji Kindle wystąpił błąd. Spróbuj ponownie później.
+To get the code, go to the next page.	Aby uzyskać kod, przejdź do następnej strony.
+UNLINK	ODŁĄCZ
+Unable to Connect	Nie można się połączyć
+Unavailable	Niedostępna
+Verify Account	Zweryfikuj konto
+WHATʼS NEW	CO NOWEGO
+We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.	Nie udało się usunąć haseł Wi-Fi z tego czytnika. Proszę spróbować później lub skontaktować się z działem obsługi klienta.
+We use data about your use of this device to provide customised marketing offers you might enjoy and to improve our products and services for all users. You can opt out of allowing us to use personal data collected by the operating system of this device for these purposes by disabling this setting. Disabling this setting will not affect: (1) your ability to use the features of this device, as we will continue to collect and process your data to deliver those features to you; or (2) whether you receive marketing offers, though those offers may be less relevant to you.	Korzystamy z danych z tego urządzenia w celu dostarczania spersonalizowanych ofert marketingowych, które mogą Ci się spodobać i w celu ulepszania naszych produktów i usług dla wszystkich użytkowników. Możesz zrezygnować z używania przez nas danych osobowych zebranych przez system operacyjny tego urządzenia, wyłączając to ustawienie. Wyłączenie tego ustawienia nie wpłynie na: (1) zdolność korzystania z funkcji tego urządzenia, ponieważ będziemy nadal gromadzić i przetwarzać dane w celu dostarczenia tych funkcji użytkownikowi; oraz (2) otrzymasz oferty marketingowe, choć te oferty mogą być mniej istotne dla Ciebie.
+Whispersync for Books	Whispersync for Books
+Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazonʼs servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego czytnika, aby utrzymać synchronizację aplikacji Kindle, kopię zapasową adnotacji i zapewnić inne funkcje. Jeśli wyłączysz Whispersync dla tego urządzenia, to czytnik nie będzie wysyłać tych danych na serwery Amazon i niektóre funkcje nie będą dostępne dla Ciebie, w tym synchronizacja ostatnio czytanej strony z tego czytnika przez inne urządzenia.
+Wi-Fi + 3G (4G LTE in US)	Wi-Fi + 3G (4G LTE w US)
+Wi-Fi + LTE (where available) + 3G	Wi-Fi + LTE (gdzie dostępne) + 3G
+Wi-Fi MAC Address: 	MAC adres karty Wi-Fi:
+Your Amazon account will no longer be linked with your Facebook account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Facebooka.
+Your Amazon account will no longer be linked with your Twitter account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Twittera.
+Your Amazon account will no longer be linked with your Weibo account.	Twoje konto Amazon nie będzie dłużej połączone z kontem Weibo.
+Your Kindle is currently unable to connect. Please make sure you are within wireless range and try again. If the problem persists, restart your Kindle from Menu in Settings and try again.	Twój Kindle nie może się w tej chwili połączyć. Upewnij się, że znajdujesz się w zasięgu sieci bezprzewodowej i spróbuj ponownie. Jeśli problem nadal występuje, to uruchom ponownie swojego Kindle i spróbuj jeszcze raz.
+Your Kindle will be deregistered from your Amazon account, some features will not work and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon, niektóre funkcje przestaną działać, a pewne ustawienia mogą nie być zapisane. Po wyrejestrowaniu można zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
+Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon. Spowoduje to usunięcie całej zawartości z czytnika, niektóre funkcje przestaną działać. Pozycje zakupione w sklepie Amazona pozostaną dostępne w Chmurze i możesz je pobrać ponownie. Po wyrejestrowaniu, możesz zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
+{0,select, facebook {Unlink Facebook} twitter {Unlink Twitter} goodreads {Unlink Goodreads} weibo {Unlink Sina Weibo} other {}}	{0,select, facebook {Odłącz Facebook} twitter {Odłącz Twitter} goodreads {Odłącz Goodreads} weibo {Odłącz Sina Weibo} other {}}
+{0} free	{0} za darmo
+BACK	WSTECZ

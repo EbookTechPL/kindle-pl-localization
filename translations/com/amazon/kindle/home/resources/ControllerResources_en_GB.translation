@@ -1,25 +1,25 @@
-ALL	
-DOWNLOADED	
-No Audible books have been added to this device. Tap All to download Audible books.	
-No Kindle Unlimited items have been added to this device. Tap All to download content.	
-No Prime Reading items have been added to this device. Tap All to download content.	
-No Shared items have been added to your device. Tap All to download books.	
-No Shared items have been synced to the Cloud. Tap Downloaded to see content on your device.	
-No books have been added to this device. Tap All to download books.	
-No books have been synced to the Cloud. Tap Downloaded to see content on your device.	
-No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	
-No collections have been synced to the Cloud. Tap Menu to create a new collection.	
-No comic books have been added to this device. Tap All to download comic books.	
-No comic books have been synced to the Cloud. Tap Downloaded to see content on your device.	
-No documents have been synced to the Cloud. Tap Downloaded to view documents on your device.	
-No items have been added to this device. Tap All to download books.	
-No items have been added to this device. Tap All to download items.	
-No items have been synced to the Cloud. Tap Downloaded to see content on your device.	
-No periodicals have been added to this device. Tap All to download periodicals.	
-No periodicals have been synced to the Cloud. Tap Downloaded to see content on your device.	
-You have no items downloaded on your device. Switch to the All view to download content.	
-You have no items that match the selected filters.	
-You have no items that match the selected filters. Clear the filters or switch to All view to download items.	
-{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	
-{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	
-{1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 	
+ALL	WSZYSTKO
+DOWNLOADED	CZYTNIK
+No Audible books have been added to this device. Tap All to download Audible books.	Na czytniku nie ma żadnych audiobooków Audible. Wybierz Wszystko, aby pobrać audiobooki Audible.
+No Kindle Unlimited items have been added to this device. Tap All to download content.	Do tego urządzenia nie dodano żadnych elementów Kindle bez ograniczeń. Dotknij Wszystko, aby pobrać zawartość.
+No Prime Reading items have been added to this device. Tap All to download content.	Do tego urządzenia nie dodano żadnych elementów Pierwsze czytanie. Dotknij Wszystko, aby pobrać zawartość.
+No Shared items have been added to your device. Tap All to download books.	Na czytniku nie ma żadnych współdzielonych pozycji. Wybierz Wszystko, aby pobrać książki.
+No Shared items have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne współdzielone elementy nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zawartość na swoim urządzeniu.
+No books have been added to this device. Tap All to download books.	Na czytniku nie ma żadnych książek. Wybierz Wszystko, aby pobrać książki.
+No books have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne książki nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zasoby na czytniku.
+No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	Na czytniku nie ma żadnych kolekcji. Wybierz Wszystko, aby dodać kolekcje istniejące w Chmurze lub dotknij menu, aby stworzyć nową kolekcję.
+No collections have been synced to the Cloud. Tap Menu to create a new collection.	Żadna kolekcja nie została zsynchronizowana z Chmurą. Dotknij menu, aby stworzyć nową kolekcję.
+No comic books have been added to this device. Tap All to download comic books.	Na czytniku nie ma żadnych komiksów. Wybierz Wszystko, aby pobrać komiksy.
+No comic books have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne komiksy nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zawartość na swoim urządzeniu.
+No documents have been synced to the Cloud. Tap Downloaded to view documents on your device.	Żadne dokumenty nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć dokumenty na czytniku.
+No items have been added to this device. Tap All to download books.	Na czytniku nie ma żadnych pozycji. Wybierz Wszystko, aby pobrać książki.
+No items have been added to this device. Tap All to download items.	Na czytniku nie ma żadnych pozycji. Wybierz Wszystko, aby pobrać pozycje.
+No items have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne pozycje nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zawartość na swoim urządzeniu.
+No periodicals have been added to this device. Tap All to download periodicals.	Na czytniku nie ma żadnych czasopism. Wybierz Wszystko, aby pobrać czasopisma.
+No periodicals have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne czasopisma nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zasoby na czytniku.
+You have no items downloaded on your device. Switch to the All view to download content.	Nie pobrałeś żadnych pozycji na swoje urządzenie. Przejdź do widoku Wszystko, aby pobrać zawartość.
+You have no items that match the selected filters.	Nie masz pozycji pasujących do wybranych filtrów.
+You have no items that match the selected filters. Clear the filters or switch to All view to download items.	Nie masz pozycji pasujących do wybranych filtrów. Wyczyść filtry lub przejdź do widoku Wszystko, aby pobrać elementy.
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 z 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
+{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} kolekcja więcej w Chmurze} other {Liczba dodatkowych kolekcji w Chmurze: {0,number,integer}}}
+{1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 	{1, select, 0 {{0, select, true {Pokazuje pozycje dostępne w Chmurze} other {Nie pokazuje pozycji dostępnych w Chmurze}}} other {{0, select, true {Pokazuje pozycje dostępne na czytniku} other {Nie pokazuje pozycji dostępnych na czytniku}}}}
