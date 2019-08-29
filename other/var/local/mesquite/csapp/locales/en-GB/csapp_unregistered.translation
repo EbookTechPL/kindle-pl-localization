@@ -1,0 +1,8 @@
+<p class="spacing-bottom header">Register</p>	<p class="spacing-bottom header">Zarejestruj</p>
+<p class="spacing-bottom-small">Your Kindle must be registered to use this feature.</p>	<p class="spacing-bottom-small">Aby użyć tej funkcji, musisz zarejestrować swojego Kindle.</p>
+<p class="spacing-bottom">Do you want to register now?</p>	<p class="spacing-bottom">Czy chcesz go zarejestrować teraz?</p>
+<input type="button" class="csappButton" value="CANCEL" onclick="kindle.appmgr.back();">	<input type="button" class="csappButton" value="ANULUJ" onclick="kindle.appmgr.back();">
+<input type="button" class="csappButton" value="REGISTER" onclick="kindle.appmgr.start('com.lab126.booklet.settings?viewRequest=VIEW_REQUEST_ID_REGISTRATION');">	<input type="button" class="csappButton" value="ZAREJESTRUJ" onclick="kindle.appmgr.start('com.lab126.booklet.settings?viewRequest=VIEW_REQUEST_ID_REGISTRATION');">
+<p class="spacing-bottom-small">Or to contact Amazon Customer Service, please call:</p>	<p class="spacing-bottom-small">Lub skontaktuj się z obsługą klienta Amazon, dzwoniąc na numer:</p>
+Freephone:	Darmowy telefon:
+International:	Międzynarodowy:

@@ -1,0 +1,8 @@
+<p class="spacing-bottom header">Unable to Load</p>	<p class="spacing-bottom header">Nie można załadować</p>
+<p class="spacing-bottom-small">Your device was unable to connect to the server. Please check your Wi-Fi connection and try again.</p>	<p class="spacing-bottom-small">Twój czytnik nie może połączyć się z serwerem. Sprawdź swoje połączenie Wi-Fi i spróbuj ponownie.</p>
+<p class="spacing-bottom-small">A wireless connection is required to complete this task. Please connect to a Wi-Fi network.</p>	<p class="spacing-bottom-small">Do wykonania tego zadania wymagane jest połączenie bezprzewodowe. Połącz się z siecią Wi-Fi.</p>
+<input type="button" class="csappButton" value="CANCEL" onclick="kindle.appmgr.back();">	<input type="button" class="csappButton" value="ANULUJ" onclick="kindle.appmgr.back();">
+<input type="button" class="csappButton" value="WI-FI SETTINGS" onclick="kindle.appmgr.start('com.lab126.booklet.settings?viewRequest=VIEW_REQUEST_ID_WIRELESS_BLUETOOTH');">	<input type="button" class="csappButton" value="USTAWIENIA WI-FI" onclick="kindle.appmgr.start('com.lab126.booklet.settings?viewRequest=VIEW_REQUEST_ID_WIRELESS_BLUETOOTH');">
+<p class="spacing-bottom-small">Or to contact Amazon Customer Service, please call:</p>	<p class="spacing-bottom-small">Lub skontaktuj się z obsługą klienta Amazon, dzwoniąc na numer:</p>
+Freephone:	Darmowy telefon:
+International:	Międzynarodowy:
