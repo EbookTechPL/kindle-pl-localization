@@ -1,0 +1,8 @@
+Limit Reached	
+Server Error	
+The name you entered included characters that are not supported. Please enter the name again.	
+Unsupported Characters	
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	
+You have reached the limit of adult profiles allowed for {0}.	
+You have reached the limit of children allowed for {0}.	
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems editing profiles, please try again later.} }	

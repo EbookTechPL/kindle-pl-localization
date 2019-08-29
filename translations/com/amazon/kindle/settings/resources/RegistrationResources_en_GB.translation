@@ -1,0 +1,12 @@
+Create a new account	
+Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.	
+Deregister Device	
+Deregister your Kindle from your Amazon account.	
+Household and Family Library	
+It is taking longer than expected to register your Kindle. Please continue to use your Kindle while we register it in the background.	
+Register your Kindle	
+Registering Your Kindle	
+Registration	
+To view all of your reading content, register your Kindle to your Amazon account.~~~~By tapping "Use an existing Amazon account" or "Create a new account", you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.	
+Use an existing Amazon account	
+{0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}	

@@ -1,0 +1,14 @@
+ALL ITEMS	
+All Items	
+BOOKS	
+Books	
+COMICS	
+Comics	
+DOCS	
+Docs	
+Done	
+PERIODICALS	
+Periodicals	
+SAMPLES	
+Samples	
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	

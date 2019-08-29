@@ -1,0 +1,11 @@
+~~Your device has been connected to <b>{0}</b>, using the Wi-Fi credentials that you previously saved to Amazon. <ul>Learn More</ul>	
+By tapping ”Continue with this account” or ”Use a different account”, you agree to Amazonʼs Conditions of Use and all the terms found at www.amazon.com/devicesupport. View Amazonʼs Privacy Notice at www.kindle.com/support/privacy.~~	
+CONTINUE	
+CONTINUE WITH THIS ACCOUNT	
+Hello {0}	
+Tap here to adjust this.	
+The local time zone will be set using the Wi-Fi or mobile networks detected by your Kindle.	
+USE A DIFFERENT ACCOUNT	
+Your Kindleʼs time has been adjusted to {0,time,short}.	
+Your Kindleʼs time is set to {0,time,short}.	
+here	

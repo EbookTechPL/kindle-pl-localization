@@ -1,0 +1,24 @@
+AUTHOR	
+COLLECTION	
+Collection	
+DATE	
+DATE (REVERSE)	
+Done	
+FILTER	
+Filter Menu	
+Home	
+Library	
+MEMBER COUNT	
+NUMBER OF HITS	
+Periodical Collection	
+RECENT	
+RELEVANCE	
+SERIES	
+SERIES (REVERSE)	
+SORT	
+Series	
+Settings	
+Sort Menu	
+TITLE	
+{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	
+{0} showing {1, number, integer}	

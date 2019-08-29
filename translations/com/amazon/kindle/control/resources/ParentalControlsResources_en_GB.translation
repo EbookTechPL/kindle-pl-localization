@@ -1,0 +1,24 @@
+Access to Goodreads.	
+Access to Store for purchasing content.	
+Access to the Cloud.	
+Access to the Experimental Web Browser.	
+Cancel	
+Change Password	
+Cloud	
+Confirm Password:	
+Current Parental Controls Password:	
+Enter Parental Controls Password:	
+Enter Password Hint: Enter a phrase that can help you remember your password.	
+Incorrect Password	
+Incorrect password. Please try again:	
+Invalid Password	
+New Parental Controls Password:	
+Parental Controls	
+Passwords Do Not Match. Please try again.	
+Please enter a valid password.	
+Set Parental Controls Password:	
+Store	
+Web Browser	
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.	
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When Store is locked, you can continue buying books on your computer and send them to your Kindle.	
+{0,select, has_hint {Hint: {1}} other {}}	

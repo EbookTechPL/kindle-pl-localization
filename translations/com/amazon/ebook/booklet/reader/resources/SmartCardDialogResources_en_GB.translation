@@ -1,0 +1,4 @@
+Card selection	
+Card: {0}	
+Card: {0}, {1,number,integer} of {2,number,integer}	
+Go to card: {0}	

@@ -1,0 +1,40 @@
+<html><body>All progress and achievements will be lost upon deletion. The profile will also not be available on other devices.<br/><br/>Are you sure that you want to delete {0, select, male {<b>&nbsp;{1}ʼs&nbsp;</b> profile} female {<b>&nbsp;{1}ʼs&nbsp;</b> profile} other {<b>&nbsp;{1}ʼs&nbsp;</b> profile}}?</body></html>	
+ADD	
+Access Achievements	
+All progress and achievements will be lost upon removal, but will be available on other devices.~~~~Are you sure you want to delete the profile <em>{0}</em> from this device?	
+Are you sure you want to leave this Household?~~~~You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each otherʼs books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.	
+Book Sharing	
+CANCEL	
+DELETE	
+Daily Reading Goal	
+Date of Birth	
+Delete Profile	
+Devices	
+ENABLED	
+FINISH	
+Family Library 	
+First Name	
+Gender	
+IGNORE	
+Leave Household	
+Let your child see their Achievement Reports.	
+Manage payment methods associated with your Amazon account for purchases on Amazon.	
+NOT ENABLED	
+Name	
+No Content	
+Payment Information	
+Select devices that should show {0}ʼs shared content.	
+Set how many minutes your child should read for each day.	
+Share All Books	
+Share all your current and future purchased books with {0}.	
+Share books and other digital content with {0}. 	
+This will share all your current and future purchased books with {0}. You can still block individual books from sharing with {0} on the Manage Your Content and Devices page on Amazon.~~~~Do you want to continue?	
+Turn Off Family Library	
+Unrestricted Access to Wikipedia	
+You and {0} will lose access to each otherʼs books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~Do you want to continue?	
+You have not added any items to {0}ʼs {1}.	
+{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}	
+{0, select, male {Boy} female {Girl} other {Boy}}	
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	
+{0} will be removed from your Household on all your devices.	
+{0} will no longer be able to access all your books by default. You can still share individual books with {0} on the Manage Your Content and Devices page on Amazon.~~~~Do you want to continue?	

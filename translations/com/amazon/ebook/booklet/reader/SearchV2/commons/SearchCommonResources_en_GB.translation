@@ -1,0 +1,23 @@
+ALL	
+BOOK	
+HIGHLIGHTS	
+Highlight	
+ISSUE	
+Loc {0}	
+NOTES	
+NOTES AND HIGHLIGHTS	
+No Results	
+No book results for "{0}" were found.	
+No issue results for "{0}" were found.	
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in a Kindle book and search for them here.	
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in an issue and search for them here.	
+No results for "{0}" were found.	
+Note	
+Page 	
+Page {0}	
+Result	
+Result {0,number,integer} to {1,number,integer} of {2,number,integer}	
+Result {0,number,integer}-{1,number,integer} of {2,number,integer}	
+Results	
+Results {0,number,integer} to {1,number,integer} of {2,number,integer}	
+Results {0,number,integer}-{1,number,integer} of {2,number,integer}	

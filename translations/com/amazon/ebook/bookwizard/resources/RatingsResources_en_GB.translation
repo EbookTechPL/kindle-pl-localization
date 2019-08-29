@@ -1,0 +1,11 @@
+Books Rated: {0, number, integer}	
+Done exploring?	
+Iʼm Done	
+Now, rate some books youʼve read or mark books youʼre interested in as “Want to Read”. Rate at least 10 books to get the best recommendations.	
+Rate More	
+SHOW 3 MORE BOOKS	
+Step 2 of 2	
+WANT TO READ	
+Youʼve rated fewer than 10 books. Rate more books for better recommendations.	
+{0,plural,=0 {{0, number,integer} star} one {{0, number,integer} star} other {{0, number,integer} stars}}	
+{0} by {1}	

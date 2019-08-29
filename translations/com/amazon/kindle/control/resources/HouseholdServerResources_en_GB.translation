@@ -1,0 +1,16 @@
+All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 	
+Limit Reached	
+Merging Households	
+Server Error	
+The name you entered included characters that are not supported. Please enter the name again.	
+This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.	
+This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+Unable to Add	
+Unsupported Characters	
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	
+You have reached the limit of adult profiles allowed for {0}.	
+You have reached the limit of children allowed for {0}.	
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems, please try again later.} }	

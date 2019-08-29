@@ -1,0 +1,44 @@
+About Vocabulary Builder	
+Add to Downloaded	
+Add/Remove Items	
+Audiobook Description	
+Book Description	
+Buy This Audiobook Now	
+Buy This Book Now	
+Date: 	
+Delete	
+Download	
+Download Latest Issue	
+Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	
+Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+Edit Child Profiles	
+Edit Pronunciation	
+In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+Latest Issue: {0,date,short}	
+Latest Item: {0,date,short}	
+Learn more	
+Manage FreeTime Items	
+Manage Kindle for Kids Items	
+Narrator: 	
+Open Latest Issue	
+Owned: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+Remove All Back Issues	
+Remove from Device	
+Remove from List	
+Rename	
+See In Store	
+Submit Series Feedback	
+Total in series: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+Try a Sample	
+Turn Off Vocabulary Builder	
+Turn off {0}	
+Unknown	
+View Achievements	
+View Back Issues	
+View in Store	
+View on Goodreads	
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	

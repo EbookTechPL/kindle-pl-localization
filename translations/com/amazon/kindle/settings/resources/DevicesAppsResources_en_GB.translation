@@ -1,0 +1,7 @@
+ Content shared through Family Library is only available on select Kindle devices running the latest software. To see the list of compatible devices, please go to {0} or contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+<ul>Donʼt see all your devices here?</ul>	
+Compatible Devices	
+Devices	
+No devices found.	
+Select your devices that should display {0}ʼs shared content.	
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	

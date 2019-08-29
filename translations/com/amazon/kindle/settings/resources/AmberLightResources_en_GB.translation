@@ -1,0 +1,16 @@
+ALLOW	
+Allow location access	
+Automatic	
+Customise the amount of warmth for the scheduled time. Press and hold on the level desired to preview warmth.	
+DONʼT ALLOW	
+End at:	
+Gradually changes with sunset and sunrise.	
+Manual	
+Schedule	
+Set Warmth	
+Start at:	
+Warmth Schedule	
+Warmth at {0} of {1}. Decrease warmth	
+Warmth at {0} of {1}. Increase warmth	
+Weʼll use your deviceʼs location to change warmth with sunrise and sunset to provide a comfortable reading experience. You can change this behaviour anytime by selecting Manual or turning off the schedule. Location access requires internet connection.	
+When the schedule is enabled, warm amber will be added to the front light until scheduled warmth ends.	

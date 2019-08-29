@@ -1,0 +1,10 @@
+Add keyboards for different languages.	
+Chinese Sort Order	
+Dictionaries	
+Keyboards	
+Language	
+Language & Dictionaries	
+Set the default dictionary for each language.	
+Set the language on your Kindle.	
+Set the sort order for Chinese content.	
+{0,plural, =0 {NO KEYBOARDS} one {{0, number, integer} KEYBOARD} other {{0, number, integer} KEYBOARDS}}	

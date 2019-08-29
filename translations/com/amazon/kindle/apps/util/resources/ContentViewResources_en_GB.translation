@@ -1,0 +1,29 @@
+Abc	
+Active	
+Archived Items	
+Blog	
+Book	
+COLLECTION	
+COMPLETE	
+Collection	
+Dictionaries	
+Dictionary	
+EXPIRING	
+Images	
+Letter	
+MUSIC	
+Magazine	
+Newspaper	
+Notice	
+ON LOAN	
+OPENING...	
+Periodical Back Issues	
+Personal	
+Receipt	
+Rental	
+SERIES	
+Your Clippings	
+whispersync for voice	
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	
+{1, select, true {READY - {0}} other {{0}}}	
