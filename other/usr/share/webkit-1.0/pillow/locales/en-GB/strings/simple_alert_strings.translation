@@ -79,7 +79,7 @@ Java Heap Low	Zaczyna brakować pamięci dla Javy
 The Java Heap has been low for too long.	Struktura Java jest zbyt długo na niskim poziomie.
 Framework Error	Błąd oprogramowania
 The application is not responding. Please wait while your Kindle restarts.	Aplikacja nie odpowiada. Poczekaj, aż Twój Kindle się uruchomi się ponownie.
-Kindle Store Locked	Sklep Kindle jest zablokowany
+Kindle Store Locked	Sklep Kindle jest zablokowany.
 Store Locked	Sklep jest zablokowany
 This is a managed device. Store is locked. For information, contact: {contactInfo}.		To urządzenie jest zdalnie zarządzane. Sklep jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 This is a managed device. Kindle Store is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Sklep Kindle jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
@@ -101,10 +101,15 @@ Toggle Wireless Locked	Włącz/Wyłącz łączności bezprzewodowej jest zabloko
 This is a managed device. Toggle Wireless is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Włączanie/wyłączanie sieci bezprzewodowej jest zablokowane. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Feature Locked	Funkcja zablokowana
 This is a managed device. Aeroplane Mode and Bluetooth are locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy i Bluetooth są zablokowane. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
+Airplane Mode Locked	Tryb samolotowy jest zablokowany
+Aeroplane Mode Locked	Tryb samolotowy jest zablokowany
+This is a managed device. Airplane Mode is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
+This is a managed device. Aeroplane Mode is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Wi-Fi Settings Locked	Ustawienia sieci Wi-Fi są zablokowane
 This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Konfiguracja ustawień Wi-Fi jest zablokowana. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Store Locked	Sklep jest zablokowany.
 Parental Controls are enabled on your Kindle. Store is locked.	Na Twoim Kindle została włączona kontrola rodzicielska. Sklep został zablokowany.
+Parental Controls are enabled on your Kindle. Kindle Store is locked.	Na Twoim Kindle została włączona kontrola rodzicielska. Sklep Kindle został zablokowany.
 Web Browser Locked	Przeglądarka internetowa jest zablokowana
 Parental Controls are enabled on your Kindle. The Experimental Web Browser is locked.	Na Twoim Kindle została włączona kontrola rodzicielska. Przeglądarka internetowa została zablokowana.
 Cloud Locked	Chmura jest zablokowana
@@ -169,7 +174,6 @@ Battery Too Low	Zbyt niski stan baterii
 Kindle must be charged to resell. Please connect to charger for at least one hour and try again.	Kindle musi być naładowany przed odsprzedażą. Proszę podłączyć go do ładowarki przynajmniej na godzinę i spróbować ponownie.
 Feature Not Available	Funkcja nie jest dostępna
 This feature is not available when Kindle is in demo mode.	Ta funkcja nie jest dostępna jeśli Kindle jest w trybie demo.
-CONTINUE	KONTYNUUJ
 Device Not Registered	Urządzenie niezarejestrowane
 You must register your Kindle to view this offer.	Aby obejrzeć tę ofertę musisz zarejestrować swojego Kindle.
 An exception has occured while recording. The logs have been collected in {log_name}.	Podczas nagrywania wystąpił wyjątek. Logi zostały zgromadzone w pliku {log_name}.
@@ -195,3 +199,7 @@ We could not connect to your Bluetooth audio device.<br><br> Make sure your audi
 We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 9 seconds, and then hold two fingers on the screen.	Nie mogliśmy połączyć się z Twoim urządzeniem audio Bluetooth.<br><br> Upewnij się, że Twoje urządzenie audio jest włączone i znajduje się w trybie parowania, naciśnij i przytrzymaj przycisk zasilania na swoim Kindle przez 9 sekund, a następnie trzymaj dwa palce na ekranie.
 Folder is Almost Full	Folder jest prawie pełny
 One of the subfolders under the Documents folder has exceeded 2000 items. To continue adding more items to your device, we recommend creating a new subfolder under Downloads.	Jeden z podfolderów w folderze „documents” przekroczył 2000 pozycji. Aby nadal dodawać kolejne elementy do swojego urządzenia, zalecamy utworzenie nowego podfolderu na czytniku.
+We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 7 seconds, then hold 2 fingers on the screen.	Nie mogliśmy połączyć się z Twoim urządzeniem audio Bluetooth.<br><br> Upewnij się, że Twoje urządzenie audio jest włączone i znajduje się w trybie parowania, naciśnij i przytrzymaj przycisk zasilania na swoim Kindle przez 7 sekund, a następnie trzymaj dwa palce na ekranie.
+We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 7 seconds, and then hold two fingers on the screen.	Nie mogliśmy połączyć się z Twoim urządzeniem audio Bluetooth.<br><br> Upewnij się, że Twoje urządzenie audio jest włączone i znajduje się w trybie parowania, naciśnij i przytrzymaj przycisk zasilania na swoim Kindle przez 7 sekund, a następnie trzymaj dwa palce na ekranie.
+Feature Locked	Funkcjonalność jest zablokowana
+This is a managed device. Aeroplane Mode and Bluetooth are locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy i Bluetooth są zablokowane. Więcej informacji uzyskasz tutaj: {contactInfo}.
