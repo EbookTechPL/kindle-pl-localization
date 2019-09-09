@@ -1,12 +1,18 @@
+Book Results ({0,number,integer})	Wyniki w książce ({0,number,integer})
 Go To	Idź do
-Loc 	Lokacja
-Location 	Lokacja
-RESULTS FOR "{0}"	WYNIKI DLA „{0}”
+Loc 	Lok 
+Location 	Lokacja 
+Location {0}	Lokacja {0}
+Location {0} {2} Page {1}	Lokacja {0} {2} Strona {1}
+RESULTS FOR "{0}"	WYNIKI DLA "{0}"
+Search Results ({0,number,integer})	Wyniki wyszukiwania ({0,number,integer})
 Search failed.	Wyszukiwanie nie powiodło się.
 Searching…	Wyszukiwanie...
 There are no results found in this book.	Brak wyników wyszukiwania w tej książce.
-Title not indexed – please try again later.	Tytuł niezindeksowany. Spróbuj ponownie później.
+Title not indexed – please try again later.	Tytuł nie został jeszcze zaindeksowany – spróbuj ponownie później.
+Title not yet indexed.	Tytuł nie został jeszcze zindeksowany.
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
 {0,number,integer} to {1,number,integer} of {2,number,integer} result	{0,number,integer} do {1,number,integer} z {2,number,integer} wynik
 {0,number,integer} to {1,number,integer} of {2,number,integer} results	{0,number,integer} do {1,number,integer} z {2,number,integer} wyników
-{0,number,integer}-{1,number,integer} of {2,number,integer}	{0,number,integer}–{1,number,integer} z {2,number,integer}
+{0,number,integer}-{1,number,integer} of {2,number,integer}	{0,number,integer}-{1,number,integer} z {2,number,integer}
 {0}{1} {2} Page {3}	{0}{1} {2} Strona {3}

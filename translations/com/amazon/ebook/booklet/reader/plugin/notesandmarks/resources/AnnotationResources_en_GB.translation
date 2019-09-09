@@ -27,8 +27,8 @@ Your Notes & Marks ({0,number,integer})	Twoje notatki i podkreślenia ({0,number
 Your Notes ({0,number,integer})	Twoje notatki ({0,number,integer})
 Yours	Twoje
 {0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
-{0} - {1}	{0}–{1}
+{0} - {1}	{0} – {1}
 {0} highlighted this passage.	{0} podkreślił(a) ten fragment.
-{0} · Page {1} - {2}	{0} · Strona {1}–{2}
+{0} · Page {1} - {2}	{0} · Strona {1} - {2}
 {0}’s Highlight	Podkreślenie {0}
 {0}’s Note	Notatka {0}

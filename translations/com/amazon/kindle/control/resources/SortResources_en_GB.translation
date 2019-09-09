@@ -1,9 +1,9 @@
-Author	Autor
-Collections	Kolekcje
-Name	Nazwa
-Number of Hits	Według liczby trafień
-Number of Hits ({0})	Według liczby trafień ({0})
-Recent	Według daty
-Relevance	Według trafności
+Author	Wg autora
+Collections	Wg kolekcji
+Name	Wg nazwy
+Number of Hits	Wg liczby trafień
+Number of Hits ({0})	Liczba trafień ({0})
+Recent	Wg daty
+Relevance	Wg trafności
 Similarity	Wg podobieństwa
-Title	Według tytułu
+Title	Wg tytułu

@@ -1,10 +1,10 @@
 Add keyboards for different languages.	Dodaj klawiatury dla różnych języków.
-Chinese Sort Order	Porządek sortowania chińskich treści
+Chinese Sort Order	Sortowanie dla języka chińskiego
 Dictionaries	Słowniki
 Keyboards	Klawiatury
 Language	Język
 Language & Dictionaries	Język i słowniki
 Set the default dictionary for each language.	Ustaw domyślny słownik dla każdego języka.
 Set the language on your Kindle.	Ustaw język swojego Kindle.
-Set the sort order for Chinese content.	Ustaw porządek sortowania dla chińskich treści.
+Set the sort order for Chinese content.	Ustaw sposób sortowania treści w języku chińskim.
 {0,plural, =0 {NO KEYBOARDS} one {{0, number, integer} KEYBOARD} other {{0, number, integer} KEYBOARDS}}	{0,plural, =0 {BRAK KLAWIATUR} one {LICZBA KLAWIATUR: {0, number, integer}} other {LICZBA KLAWIATUR: {0, number, integer}}}

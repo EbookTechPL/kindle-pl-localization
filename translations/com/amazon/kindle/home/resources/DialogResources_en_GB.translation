@@ -8,11 +8,13 @@ Edit Kana	Edytuj Kana
 Edit Pronunciation	Edytuj wymowę
 Low Device Memory	Niski poziom pamięci na czytniku
 NOT NOW	NIE TERAZ
+REMIND ME LATER	PRZYPOMNIJ MI PÓŹNIEJ
 RESTART	URUCHOM PONOWNIE
 TURN ON Wi-Fi	WŁĄCZ Wi-Fi
 Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book.	Dotknij ikonkę Goodreads w dowolnej chwili, aby zobaczyć, co czytają Twoi znajomi i wyszukać dla siebie kolejną ulubioną książkę.
 There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.	Aktualnie na czytniku jest za mało miejsca, aby zainstalować aktualizację oprogramowanie. Proszę usunąć niektóre pozycje z bibliotek. Aktualizacja rozpocznie się automatycznie w tle, gdy tylko pojawi się wystarczająco dużo miejsca.
 Title Pronunciation	Wymowa tytułu
 Update Available	Istnieje aktualizacja
+You're all set! Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book. Now sit back and enjoy the free samples waiting in your library!	Wszystko skonfigurowałeś! Dotknij ikonkę Goodreads w dowolnej chwili, aby zobaczyć, co czytają Twoi znajomi i wyszukać dla siebie kolejną ulubioną książkę. Teraz możesz usiąść i cieszyć się z bezpłatnych próbek, które czekają w Twojej bibliotece!
 Youʼre all set! Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book. Now sit back and enjoy the free samples waiting in your library!	Wszystko skonfigurowałeś! Dotknij ikonkę Goodreads w dowolnej chwili, aby zobaczyć, co czytają Twoi znajomi i wyszukać dla siebie kolejną ulubioną książkę. Teraz możesz usiąść i cieszyć się z bezpłatnych próbek, które czekają w Twojej bibliotece!
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {Pozycji: {0,number,integer}}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak} one {{0,number,integer} pozycja} other {Liczba pozycji: {0,number,integer}}}

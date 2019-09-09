@@ -1,7 +1,13 @@
 Add To List	Dodaj do listy
 Add to Collection	Dodaj do kolekcji
+Add to FreeTime Library	Dodaj do biblioteki FreeTime
+Add to Goodreads Shelf…	Dodaj na półkę Goodreads…
 Add to Goodreads Shelf	Dodaj na półkę Goodreads
 Add to {0} Library	Dodaj do biblioteki {0}
+Add to Home	Dodaj do ekranu domowego
+Add To Home	Dodaj do ekranu domowego
+Add to Kindle for Kids Library	Dodaj do biblioteki Kindle for Kids
+Add To Wish List	Dodaj do listy życzeń
 Audiobook Description	Opis audiobooka
 Book Description	Opis książki
 Book by {0}	Książka autorstwa {0}
@@ -19,33 +25,38 @@ Download Audible	Pobierz z Audible
 Edit Kana	Edytuj Kana
 Edit Pronunciation	Edytuj wymowę
 Go To	Idź do
+Go To...	Idź do...
 Item Description	Opis pozycji
 Look up in Dictionary	Szukaj w słowniku
-Mark as Read	Oznacz jako przeczytane
-Mark as Unread	Oznacz jako nieprzeczytane
-Narrated by 	Opowiadany przez
+Look Up in Dictionary	Szukaj w słowniku
+Mark as Read	Oznacz pozycję jako przeczytaną
+Mark as Unread	Oznacz pozycję jako nieprzeczytaną
+Narrated by 	Lektor 
 Play Audible	Odtwórz z Audible
-Remove From Device	Usuń z czytnika
-Remove This Sample	Usuń tę próbkę
 Remove from Collection	Usuń z kolekcji
 Remove from Device	Usuń z czytnika
+Remove From Device	Usuń z czytnika
 Remove from List	Usuń z listy
-Return This Book	Zwróć tę książkę
-Return To Kindle Unlimited	Zwróć do Kindle Unlimited
-Return To Prime Reading	Zwróć do Prime Reading
-Return To Public Library	Zwróć do publicznej biblioteki
+Remove from Wish List	Usuń z Listy Życzeń
+Remove This Sample	Usuń tę próbkę
+Remove This Sample...	Usuń tę próbkę...
+Return To Kindle Unlimited	Wróć do Kindle Unlimited
+Return To Prime Reading	Wróć do Prime Reading
+Return To Public Library	Wróć do Public Library
+Return This Book	Wróć do tej książki
 Search This Book	Przeszukaj książkę
 Search This Document	Przeszukaj dokument
 Search This Letter	Szukaj w tym liście
 Search This Notice	Szukaj w tym ogłoszeniu
 Search This Receipt	Szukaj w tym paragonie
 Search This Sample	Przeszukaj próbkę
-Share	Udostępnij
 Share That Youʼve Finished This Book	Ogłoś, że przeczytałeś tę książkę
-Submit Series Feedback	Prześlij opinię o seriach
+Share	Udostępnij
+Submit Series Feedback	Prześlij opinię o serii
 Title: {0}	Tytuł: {0}
 Try a Sample	Pobierz próbkę
 Unknown	Nieznany
+View Bookmarks	Pokaż zakładki
 View Notes & Marks	Zobacz notatki i podkreślenia
-View in Store	Pokaż w sklepie
 View on Goodreads	Zobacz w Goodreads
+View in Store	Sprawdź w sklepie

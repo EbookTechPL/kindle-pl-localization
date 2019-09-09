@@ -1,8 +1,6 @@
 CANCEL	ANULUJ
-Chinese Sort Order	Porządek sortowania chińskich treści
-Hanyu Pinyin	Hanyu Pinyin
+Chinese Sort Order	Porządek sortowania treści w języku chińskim
 RESTART	URUCHOM PONOWNIE
-Restart Required	Wymagane jest ponowne uruchomienie
-Stroke Order	Kolejność linii
-To update the sort order for your Chinese content, your device needs to restart.~~~~This may take several minutes.	Aby zaktualizować porządek sortowania treści w Chinach, urządzenie musi zostać uruchomione ponownie. ~~~~ Może to potrwać kilka minut.
-Zhuyin Fuhao	Zhuyin Fuhao
+Restart Required	Wymagane jest ponowne uruchomienie czytnika
+Stroke Order	Kolejność znaków CJK
+To update the sort order for your Chinese content, your device needs to restart.~~~~This may take several minutes.	Sposób sortowania treści w języku chińskim zostanie zaktualizowany po ponownym uruchomieniu czytnika.~~~~Może to zająć kilka minut.

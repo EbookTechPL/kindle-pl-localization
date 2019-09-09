@@ -26,6 +26,7 @@ Edit Subject	Edytuj temat
 Enter e-mail address	Wpisz adres e-mail
 Error	Błąd
 Hi, I think you should check out this book. Let me know what you think.	Cześć, myślę, że powinieneś sprawdzić tę książkę. Daj mi znać, co o tym myślisz.
+Hi, I'm reading this book and wanted to share this quote with you.	Cześć, czytam tę książkę i chciałem podzielić się cytatem z niej.
 Hi, Iʼm reading this book and wanted to share this quote with you.	Cześć, czytam tę książkę i chciałem podzielić się cytatem z niej.
 Loading the QR code for WeChat...	Ładowanie kodu QR dla WeChata...
 Message is being shared.	Trwa udostępnianie wiadomości.
@@ -55,6 +56,7 @@ Share to Weibo	Udostępnij na Weibo
 TO:	DO:
 The quote may be truncated to fit. A link to the book will be included with your message.	Cytat może zostać obcięty w celu dopasowania. Odnośnik do książki zostanie dołączony do wiadomości.
 The quote youʼve selected is too long to share. Please select a shorter quote and try again.	Zaznaczony cytat jest zbyt długi do udostępnienia. Proszę zaznaczyć krótszy cytat i spróbować ponownie.
+The quote you've selected is too long to share. Please select a shorter quote and try again.	Zaznaczony cytat jest zbyt długi do udostępnienia. Proszę zaznaczyć krótszy cytat i spróbować ponownie.
 There was a problem sending your message. Please try again later.	W trakcie wysyłania Twojej wiadomości wystąpił problem. Spróbuj ponownie później.
 There was a problem. Please try again later.	Wystąpił problem. Proszę spróbować później.
 This e-mail will include a free preview of the book.	Ten e-mail będzie zawierał bezpłatny podgląd książki.
@@ -62,6 +64,7 @@ This e-mail will include your quote and a free preview of the book.	Ten e-mail b
 Unable to retrieve your social network settings. Please try again later.	Nie udało się pobrać ustawień sieci społecznościowej. Spróbuj ponownie później.
 Unable to share	Nie można udostępnić
 Updating settings...	Aktualizacja ustawień...
+We're sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.	Przepraszamy. Napotkaliśmy problem podczas próby udostępnienia tej książki. Proszę upewnić się czy Twój adres e-mail przypisany do konta Amazon jest poprawny.
 Web Browser Locked	Przeglądarka internetowa jest zablokowana
 Weʼre sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.	Przepraszamy. Napotkaliśmy problem podczas próby udostępnienia tej książki. Proszę upewnić się czy Twój adres e-mail przypisany do konta Amazon jest poprawny.
 You have reached the limit of {0,plural,=0 {} one {{0,number,integer} e-mail address} other {{0,number,integer} e-mail addresses}} can be stored on your Kindle. In order to add a new e-mail address, you must remove one already on your list.	Przekroczono limit {0,plural,=0 {} one {{0,number,integer} adres e-mail} other {{0,number,integer} adresów e-mail}}, które mogą być zapamiętane na Kindle. Aby dodać nowy adres e-mail należy wcześniej usunąć jeden z listy już zapisanych.

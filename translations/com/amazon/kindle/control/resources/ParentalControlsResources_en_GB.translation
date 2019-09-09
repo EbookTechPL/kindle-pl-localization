@@ -1,17 +1,23 @@
+Access to Cloud.	Dostęp do Chmury.
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
 Access to Goodreads.	Dostęp do Goodreads.
-Access to Store for purchasing content.	Dostęp do sklepu Kindle w celu zakupu treści.
-Access to the Cloud.	Dostęp do chmury.
+Access to Kindle Store.	Dostęp do sklepu Kindle.
+Access to Store for purchasing content.	Dostęp do zakupów w sklepie.
+Access to the Cloud.	Dostęp do Chmury.
 Access to the Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+Access to the Goodreads network of readers.	Dostęp do sieci czytelników Goodreads.
 Cancel	Anuluj
 Change Password	Zmień hasło
 Cloud	Chmura
-Confirm Password:	Potwierdź hasło:
+Confirm Password:	Potwierdź hasło: 
 Current Parental Controls Password:	Aktualne hasło kontroli rodzicielskiej:
 Enter Parental Controls Password:	Wprowadź hasło kontroli rodzicielskiej:
-Enter Password Hint: Enter a phrase that can help you remember your password.	Wskazówka dotycząca wprowadzonego hasła, która pomoże ci je sobie później przypomnieć.
+Enter Password Hint: Enter a phrase that can help you remember your password.	Wskazówka dotycząca wprowadzonego hasła, która pomoże ci je sobie później przypomnieć. 
+Goodreads on Kindle	Goodreads na Kindle
 Incorrect Password	Nieprawidłowe hasło
 Incorrect password. Please try again:	Nieprawidłowe hasło. Spróbuj jeszcze raz:
 Invalid Password	Nieprawidłowe hasło
+Kindle Store	Sklep Kindle
 New Parental Controls Password:	Nowe hasło kontroli rodzicielskiej:
 Parental Controls	Kontrola rodzicielska
 Passwords Do Not Match. Please try again.	Hasła się różnią. Spróbuj jeszcze raz.
@@ -20,5 +26,7 @@ Set Parental Controls Password:	Ustaw hasło kontroli rodzicielskiej:
 Store	Sklep
 Web Browser	Przeglądarka internetowa
 When Parental Controls are enabled, Deregistration and Reset Device are disabled.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować czytnika ani przywrócić ustawień fabrycznych.
-When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When Store is locked, you can continue buying books on your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować czytnika ani przywrócić ustawień fabrycznych.~~~~Przy zablokowanym sklepie Kindle, możesz kupować książki przy użyciu swojego komputera, a potem wysłać je na swój czytnik.
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.\n\nWhen Store is locked, you can continue buying books on your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować czytnika ani przywrócić ustawień fabrycznych.\n\nPrzy zablokowanym sklepie Kindle, możesz kupować książki przy użyciu swojego komputera, a potem wysłać je na swój czytnik.
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When Store is locked, you can continue buying books on your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować czytnika ani przywrócić ustawień fabrycznych.~~~~Przy zablokowanym sklepie, możesz kupować książki przy użyciu swojego komputera, a potem wysłać je na swój czytnik.
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When the Kindle Store is locked, you can continue buying books from your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować czytnika ani przywrócić ustawień fabrycznych.~~~~Przy zablokowanym sklepie Kindle, możesz kupować książki przy użyciu swojego komputera, a potem wysłać je na swój czytnik.
 {0,select, has_hint {Hint: {1}} other {}}	{0,select, has_hint {Wskazówka: {1}} other {}}
