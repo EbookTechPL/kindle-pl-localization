@@ -1,8 +1,12 @@
+ACTIVE CONTENT	AKTYWNA ZAWARTOŚĆ
 ALL ITEMS	WSZYSTKIE
+AUDIBLE	AUDIO
 Access to Cloud Locked	Dostęp do Chmury jest zablokowany
+Active Content	Aktywna zawartość
 All Items	Wszystkie pozycje
+Audible	Audio
 BOOKS	KSIĄŻKI
-Book Sharing Disabled	Udostępnianie książek wyłączone
+Book Sharing Disabled	Udostępnianie książek wyłączone 
 Book Sharing Enabled	Udostępnianie książek włączone
 Books	Książki
 COLLECTIONS	KOLEKCJE
@@ -12,18 +16,25 @@ Comics	Komiksy
 DOCS	DOKUMENTY
 Docs	Dokumenty
 Import Collections	Importuj kolekcje
+MY BOOKS	MOJE KSIĄŻKI
+My Books	Moje książki
 PERIODICALS	CZASOPISMA
 Periodicals	Czasopisma
 READ	PRZECZYTANE
 Read	Przeczytane
 SAMPLES	PRÓBKI
-SHARED ITEMS	WSPÓŁDZIELONE POZYCJE
+SHARED BOOKS	WSPÓŁDZIELONE KSIĄŻKI
+SHARED ITEMS	UDOSTĘPNIONE POZYCJE
 Samples	Próbki
-Shared Items	Współdzielone pozycje
-The other adult in your household has stopped sharing content with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	Inny dorosły w Twojej rodzinie przestał współdzielić zawartość z Tobą. Książki poprzednio współdzielone nie będą dłużej dostępne na czytniku. To może zająć kilka minut.
+Shared Books	Wspólne książki
+Shared Items	Udostępnione pozycje
+The other adult in your household has stopped sharing books with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	Inny dorosły w Twojej Rodzinie przestał współdzielić książki z Tobą. Książki poprzednio współdzielone nie będą dłużej dostępne na czytniku. To może zająć kilka minut.
+The other adult in your household has stopped sharing content with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	Inna osoba dorosła, w twojej rodzinie, przestała udostępniać swoją zawartość. Książki, które były wcześniej udostępnione, w ciągu kilku minut zostaną usunięte z urządzenia.
 UNREAD	NIEPRZECZYTANE
 Unread	Nieprzeczytane
 YOUR ITEMS	TWOJE POZYCJE
 Your Items	Twoje pozycje
-{0} has stopped sharing content with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	{0} przestał(a) współdzielić zawartość z Tobą. Książki poprzednio współdzielone nie będą dłużej dostępne na czytniku. To może zająć kilka minut.
-{0} is sharing content with you, which will appear in your Cloud within a few minutes. To view just the shared content, tap on the current filter option in the top right of the screen and select Shared Items.	{0} udostępnia Ci treści, które pojawią się w chmurze w ciągu kilku minut. Aby wyświetlić tylko udostępnioną zawartość, dotknij opcji aktualnego filtru w prawym górnym rogu ekranu i wybierz Udostępnione elementy.
+{0} has stopped sharing books with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	{0} przestał współdzielić książki z Tobą. Książki poprzednio współdzielone nie będą dłużej dostępne na czytniku. To może zająć kilka minut.
+{0} has stopped sharing content with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	{0} przestał udostępniać swoją zawartość. Książki, które były wcześniej udostępnione, w ciągu kilku minut zostaną usunięte z urządzenia.
+{0} is sharing books with you, which will soon appear in your Cloud. This may take a few minutes. To view just the shared books, tap on the current filter option in the top right of the Home screen and select Shared Books.	{0} współdzieli z Tobą książki, które wkrótce pojawią się w Chmurze. To może zająć kilka minut. Aby przeglądać książki współdzielone, dotknij opcji filtrowania w prawym górnym rogu ekranu głównego i wybierz Książki współdzielone.
+{0} is sharing content with you, which will appear in your Cloud within a few minutes. To view just the shared content, tap on the current filter option in the top right of the screen and select Shared Items.	{0} udostępnia Ci zawartość, która pojawi się w chmurze w ciągu kilku minut. Aby ograniczyć wyświetlaną listę, dotknij opcji bieżącego filtra w prawym górnym rogu ekranu i wybierz opcję Udostępnione pozycje.

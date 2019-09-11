@@ -18,13 +18,13 @@ SAVE	ZAPISZ
 Screen Light	Oświetlenie ekranu
 Settings	Ustawienia
 Time {0}. AMPM	Czas {0}. AMPM
-Time {0}. Hour	Czas {0}. godzina
-Time {0}. Minute	Czas {0}. minuta
+Time {0}. Hour	Czas {0}. godz.
+Time {0}. Minute	Czas {0}. min.
 Turn Off Wireless	Wyłącz Wi-Fi
 Turn On Wireless	Włącz Wi-Fi
 UPDATE	AKTUALIZUJ
 View Progress	Zobacz postęp
 View Special Offers	Zobacz oferty specjalne
 YES	TAK
-{0} - {1,number,percent}	{0}-{1,number,percent}
+{0} - {1,number,percent}	{0} – {1,number,percent}
 {0} OF {1}	{0} Z {1}

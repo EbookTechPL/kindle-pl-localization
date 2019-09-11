@@ -1,29 +1,42 @@
-Abc	Abc
-Active	Aplikacje
+ACTIVE	AKTYWNA ZAWARTOŚĆ
+ARCHIVED	ZARCHIWIZOWANE
+AUDIBLE	AUDIO
+Abonnement Kindle	Abonament Kindle
+Active	Aktywna zawartość
 Archived Items	Zarchiwizowane pozycje
-Blog	Blog
+Audible	Audio
 Book	Książka
 COLLECTION	KOLEKCJA
-COMPLETE	UKOŃCZONY
+COMPLETE	UKOŃCZONE
 Collection	Kolekcja
+DOC	DOKUMENT
 Dictionaries	Słowniki
 Dictionary	Słownik
+EXPIRED	WYGASŁE
 EXPIRING	WYGASAJĄCE
-Images	Obrazki
+Images	Obrazy
+KEEP	CHRON.
 Letter	List
 MUSIC	MUZYKA
 Magazine	Czasopismo
+NEW	NOWE
+NOTICE	OGŁOSZENIE
 Newspaper	Gazeta
 Notice	Ogłoszenie
-ON LOAN	WYPOŻYCZONE
+ON LOAN	W WYPOŻ.
 OPENING...	OTWIERANIE...
-Periodical Back Issues	Archiwalne numery czasopisma
-Personal	Osobiste
-Receipt	Paragon
-Rental	Wypożyczanie
+PERSONAL	OSOBISTE
+Periodical Back Issues	Wydania czasopism
+Personal	Dokument osobisty
+READ	PRZECZYTANE
+RECEIPT	POTWIERDZENIE
+RENTAL	WYPOŻYCZONE
+Receipt	Potwierdzenie
+Rental	Wypożyczony
+SAMPLE	PRÓBKA
 SERIES	SERIE
+Showing:	Wyświetlanie:
 Your Clippings	Twoje wycinki
-whispersync for voice	whispersync dla głosu
-{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {Wydań: {0,number,integer}}}
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak} one {{0,number,integer} pozycja} other {Liczba pozycji: {0,number,integer}}}
-{1, select, true {READY - {0}} other {{0}}}	{1, select, true {GOTOWY - {0}} other {{0}}}
+abonnement	abonament
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {Liczba pozycji: {0,number,integer}}}
+{1, select, true {READY - {0}} other {{0}}}	{1, select, true {GOTOWE - {0}} other {{0}}}

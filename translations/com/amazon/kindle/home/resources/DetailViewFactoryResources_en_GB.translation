@@ -1,11 +1,13 @@
 About Vocabulary Builder	O powtarzaniu słówek
+Add To Home	Dodaj do ekranu domowego
 Add to Downloaded	Dodaj kolekcję na czytnik
-Add/Remove Items	Dodaj/usuń pozycje
+Add to Home	Dodaj do ekranu domowego
+Add/Remove Items	Dodaj/Usuń pozycje
 Audiobook Description	Opis audiobooka
 Book Description	Opis książki
 Buy This Audiobook Now	Kup teraz ten audiobook
-Buy This Book Now	Kup teraz tę książkę
-Date: 	Data:
+Buy This Book Now	Kup teraz tą książkę
+Date: 	Data: 
 Delete	Usuń
 Download	Pobierz
 Download Latest Issue	Pobierz najnowsze wydanie
@@ -16,29 +18,31 @@ Edit Pronunciation	Edytuj wymowę
 In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania w Chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w Chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
-Latest Item: {0,date,short}	Najnowsza pozycja: {0,date,short}
+Latest Item: {0,date,short}	Ostatnia pozycja: {0,date,short}
 Learn more	Dowiedz się więcej
 Manage FreeTime Items	Zarządzaj pozycjami FreeTime
 Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle for Kids
-Narrator: 	Narrator:
+Narrator: 	Narrator: 
 Open Latest Issue	Otwórz najnowsze wydanie
-Owned: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Posiadane: {0,plural,=0 {brak} one {{0,number,integer} pozycja} other {{0,number,integer}} }
+Owned: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Własność: {0,plural,=0 {brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
 Remove All Back Issues	Usuń wszystkie archiwalne numery
 Remove from Device	Usuń z czytnika
 Remove from List	Usuń z listy
 Rename	Zmień nazwę kolekcji
-See In Store	Zobacz w sklepie
-Submit Series Feedback	Prześlij opinię o seriach
-Total in series: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem w seriach: {0,plural,=0 {brak} one {{0,number,integer} element} other {{0,number,integer}} }
-Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer} wydanie} other {{0,number,integer}} }
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer} pozycja} other {{0,number,integer}} }
-Try a Sample	Pobierz próbkę
+See In Store	Sprawdź w sklepie
+Submit Series Feedback	Prześlij opinie o serii
+Total in series: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	razem w serii: {0,plural,=0 {brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Try a Sample	Sprawdź próbkę
+Turn Off FreeTime	Wyłącz FreeTime
+Turn Off Kindle for Kids	Wyłącz Kindle for Kids
 Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek
 Turn off {0}	Wyłącz {0}
 Unknown	Nieznany
 View Achievements	Pokaż osiągnięcia
 View Back Issues	Zobacz archiwalne numery
-View in Store	Pokaż w sklepie
+View in Store	Zobacz w sklepie
 View on Goodreads	Zobacz w Goodreads
 {0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {{0,number,integer} słów do nauki} one {{0,number,integer} słowo do nauki} other {Słów do nauki: {0,number,integer}} }
 {0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }

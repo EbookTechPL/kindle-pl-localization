@@ -1,11 +1,12 @@
 AUTHOR	WG AUTORA
 COLLECTION	WG KOLEKCJI
-Collection	Kolekcja
+Collection	Wg kolekcji
 DATE	WG DATY
-DATE (REVERSE)	WG DATY (ODWROTNIE)
+DATE (REVERSE)	WG DATY (WSTECZ)
 Done	Gotowe
-FILTER	FILTRUJ
-Filter Menu	Menu filtrowania
+FILTER	FILTROWANIE
+Filter Menu	Filtrowanie
+Filter by	Filtruj wg
 Home	Ekran główny
 Library	Biblioteka
 MEMBER COUNT	WG LICZBY POZYCJI
@@ -13,12 +14,14 @@ NUMBER OF HITS	WG LICZBY TRAFIEŃ
 Periodical Collection	Kolekcja czasopism
 RECENT	WG DATY OTWARCIA
 RELEVANCE	WG ZWIĄZKU Z TEMATEM
-SERIES	WF SERII
-SERIES (REVERSE)	WG SERII (ODWROTNIE)
-SORT	SORTUJ
+SERIES	WG SERII
+SERIES (REVERSE)	WG SERII (WSTECZ)
+SORT	SORTOWANIE
 Series	Serie
 Settings	Ustawienia
-Sort Menu	Menu sortowania
+Sort Menu	Sortowanie
+Sort by	Sortuj wg
 TITLE	WG TYTUŁU
+showing {0, number, integer}	wyświetlanie {0, number, integer}
 {0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	{0,choice,0#1 z 1|2#{1,number,integer} z {2,number,integer}}
 {0} showing {1, number, integer}	{0} wyświetlanie {1, number, integer}

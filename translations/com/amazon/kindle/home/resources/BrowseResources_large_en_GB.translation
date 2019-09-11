@@ -1,5 +1,7 @@
 Abonnement Kindle 	Abonament Kindle 
+Active Content	Aktywna zawartość
 All Items	Wszystkie pozycje
+Audible	Audio
 Books	Książki
 Collections	Kolekcje
 Comics	Komiksy
@@ -7,7 +9,8 @@ Docs	Dokumenty
 Kindle Store 	Sklep Kindle 
 Periodicals	Czasopisma
 See What Your Friends Are Reading 	Zobacz, co czytają Twoi znajomi 
-Shared Items	Współdzielone pozycje
+Shared Items	Udostępnione pozycje
 Your Items	Twoje pozycje
 Your Library	Twoja biblioteka
-Your Reading Lists	Twoje listy lektur
+Your Reading Lists	Listy czytanych książek
+{1, select, 0 {{0}} 1 {{0} {1, number, integer} item} other {{0} {1, number, integer} items}}	{1, select, 0 {{0}} 1 {{0} {1, number, integer} pozycja} other {{0} {1, number, integer} pozycji}}

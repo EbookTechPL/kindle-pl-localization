@@ -1,100 +1,119 @@
- of 	 z
+ of 	 z 
+ALIGNMENT	WYRÓWNANIE
 Add Note	Dodaj notatkę
-Alignment	Wyrównanie
+Alignment	Wyrównanie tekstu
 Animation	Animacja
-Are you sure you want to delete "{0}"?	Czy na pewno chcesz usunąć „{0}”?
-Are you sure you want to save your current settings to "{0}"? It will override the previous settings in this theme.	Czy na pewno chcesz zapisać bieżące ustawienia w „{0}”? Zastąpi to poprzednie ustawienia w tym motywie.
+Are you sure you want to delete "{0}"?	Czy jesteś pewien, że chcesz usunąć "{0}"?
+Are you sure you want to save your current settings to "{0}"? It will override the previous settings in this theme.	Czy jesteś pewien, że chcesz zapisać aktualne ustawienia "{0}"? Poprzednie ustawienia motywu zostaną nadpisane.
+BOLD	GRUBOŚĆ
 Beginning	Początek
-Bold	Pogrubienie
-Bold Control Slider use plus and minus buttons	Suwak sterujący pogrubianiem używa przycisków plus i minus
+Bold	Grubość
+Bold Control Slider use plus and minus buttons	Zmień grubość czcionki używając przycisków plus i minus
 Book Description	Opis książki
 Buy This Book Now	Kup teraz tę książkę
 CANCEL	ANULUJ
+CONTRAST	KONTRAST
 Cancel	Anuluj
-Compact	Kompaktowy
+Compact	Motyw kompaktowy
 Contrast	Kontrast
-Contrast Control Slider uses plus and minus buttons	Suwak sterujący kontrastem używa przycisków plus i minus
+Contrast Control Slider uses plus and minus buttons	Zmień kontrast używając przycisków plus i minus
 Cover	Okładka
 Crop Margins	Przytnij marginesy
-Custom	Niestandardowy
-Custom Fonts ({0})	Niestandardowe czcionki ({0})
-Custom: 	Niestandardowy:
+Custom	Własne ustawienia
+Custom Fonts ({0})	Własne czcionki ({0})
+Custom: 	Własna: 
 DARKEST	NAJCIEMNIEJSZY
 DELETE	USUŃ
-Decrease Contrast now	Zmniejsz teraz kontrast
-Decrease boldness now 	Zmniejsz teraz pogrubienie
-Decrease size now 	Zmniejsz teraz rozmiar
+Decrease Contrast now	Zmniejsz kontrast teraz
+Decrease boldness now 	Zmniejsz grubość teraz 
+Decrease size now 	Zmniejsz rozmiar teraz 
 Delete	Usuń
+Delete Note	Usuń notatkę
 Delete Theme	Usuń motyw
-Dyslexic	Dysleksja
+Display Settings	Ustawienia wyświetlania
+Dyslexic	Dla dyslektyków
 EDIT	EDYTUJ
+Edit Note	Edytuj notatkę
 End	Koniec
-Enter Password	Wprowadź hasło
+Enter Password	Podaj hasło
 Enter a location ({0} - {1})	Podaj lokację ({0}–{1})
-Enter a new name for your theme.	Podaj nową nazwę dla twojego motywu.
+Enter a new name for your theme.	Podaj nową nazwę motywu.
 Enter a page	Podaj stronę
 Enter a page (1 - {0})	Podaj stronę (1–{0})
 Enter a page (1 - {0}) or location ({1} - {2})	Podaj stronę (1–{0}) lub lokację ({1}–{2})
 Enter a page ({0})	Podaj stronę ({0})
 Enter a page ({0}) or location ({1} - {2})	Podaj stronę ({0}) lub lokację ({1}–{2})
 Enter a page or location ({1} - {2})	Podaj stronę lub lokację ({1}–{2})
+Enter password	Wprowadź hasło
+Enter password: 	Wprowadź hasło: 
 FONT	CZCIONKA
 FONT SIZE	ROZMIAR CZCIONKI
 Fit to Screen	Dopasuj do ekranu
 Font & Page Settings	Ustawienia czcionki i strony
-Font Menu Drop-Down Dialog	Rozwijane menu czcionek
+Font Menu Drop-Down Dialog	Rozwijalne menu wyboru czcionki
 GO TO	IDŹ DO
 Go To	Idź do
 Go to Page or Location	Przejdź do strony lub lokacji
-Go to your Customised Sideloaded Fonts Menu	Przejdź do menu niestandardowych czcionek
+Go to your Customised Sideloaded Fonts Menu	Idź do menu własnych czcionek
 Go to...	Idź do...
 HIDE	UKRYJ
-Hide	Ukryj
+Hide	UKRYJ
 Highlight	Podkreśl
-Increase Contrast now	Zwiększ teraz kontrast
-Increase boldness now 	Zwiększ teraz pogrubienie
-Increase size now 	Zwiększ teraz rozmiar
-Invert whether show or hide this	Zmień czy pokazać, czy ukryć to
+Incorrect Password	Nieprawidłowe hasło
+Incorrect password. Please try again.	Nieprawidłowe hasło. Spróbuj jeszcze raz.
+Increase Contrast now	Zwiększ kontrast teraz
+Increase boldness now 	Zwiększ grubość teraz 
+Increase size now 	Zwiększ rozmiar teraz 
+Invert whether show or hide this	Odwróć ustawienia pokazywania lub ukrywania motywu
 LIGHTEST	NAJJAŚNIEJSZY
 LOCATION	LOKACJA
-Large	Duży
+Large	Motyw powiększony
 Loc {0}	Lokacja {0}
 Loc {0} of {1}	Lokacja {0} z {1}
+Location	Lokacja
 Lock Rotation	Blokada rotacji
 Low Memory	Mało pamięci
-Low Vision	Słaba widoczność
-Manage Page Display Themes	Zarządzaj motywami wyświetlania strony
-Manage page display theme.	Zarządzaj motywem wyświetlania strony.
+Low Vision	Dla niedowidzących
+MARGINS	MARGINESY
+Manage Page Display Themes	Zarządzaj motywami ustawienia strony
+Manage page display theme.	Zarządzaj motywem ustawienia strony.
 Margins	Marginesy
-Maximum number of themes reached. Delete an existing theme to create a new one.	Osiągnięto maksymalną liczbę motywów. Usuń istniejący motyw, aby utworzyć nowy.
+Maximum number of themes reached. Delete an existing theme to create a new one.	Została przekroczona maksymalna liczba motywów. Usuń istniejący motyw, aby utworzyć nowy.
 Menu	Menu
 More	Więcej
 More Options	Więcej opcji
 NORMAL	NORMALNY
 Note	Notatka
+ORIENTATION	ORIENTACJA
 Orientation	Orientacja
-Overflow access to Rename, Delete and Hide/Show Options for this	Przepełniony dostęp do zmień nazwę, usuń i ukryj/pokaż opcje dla tego
+Overflow access to Rename, Delete and Hide/Show Options for this	Dostęp to opcji zmiany nazwy, usuwania, pokazywania/ukrywania motywu
 PAGE	STRONA
-PAGE DISPLAY 	WYŚWIETLANIE STRONY
+PAGE DISPLAY 	USTAWIENIA STRONY 
 PDF Display Settings	Ustawienia wyświetlania PDF
-Page Display	Wyświetlanie strony
+Page	Strona
+Page 	Strona
+Page Display	Ustawienia strony
 Page Refresh	Odświeżanie strony
 Page or Location	Strona lub lokacja
 Page {0}	Strona {0}
 Page {0} of {1}	Strona {0} z {1}
+Password-Protected	Chronione hasłem
 Preview Double Page Spread	Podgląd dwóch stron
 Publisher Font	Czcionka wydawcy
 READING	CZYTANIE
+READING PROGRESS	POSTĘP CZYTANIA
 Reading Progress	Wskaźnik postępu czytania
 Rename	Zmień nazwę
 Rename Theme	Zmień nazwę motywu
 SAVE	ZAPISZ
 SHOW	POKAŻ
+SIZE	ROZMIAR
+SPACING	ODSTĘP
 Save	Zapisz
-Save Current Settings	Zapisz bieżące ustawienia
-Save current settings to a new theme	Zapisz bieżące ustawienia w nowym motywie
-Save current settings to a new theme. The new theme will appear under Page Display.	Zapisz bieżące ustawienia w nowym motywie. Nowy motyw pojawi się w obszarze wyświetlania strony.
-Save your current settings to a new theme.	Zapisz twoje bieżące ustawienia w nowym motywie.
+Save Current Settings	Zapisz aktualne ustawienia
+Save current settings to a new theme	Zapisz aktualne ustawienia jako nowy motyw
+Save current settings to a new theme. The new theme will appear under Page Display.	Zapisz aktualne ustawienia jako nowy motyw. Motyw będzie wyświetlany w Ustawieniach strony.
+Save your current settings to a new theme.	Zapisz aktualne ustawienia strony jako nowy motyw.
 Settings	Ustawienia
 Share	Udostępnij
 Shared Notes & Highlights	Udostępnione notatki i podkreślenia
@@ -102,27 +121,50 @@ Shop in Kindle Store	Zakupy w sklepie Kindle
 Show	Pokaż
 Show Clock While Reading	Pokaż zegar podczas czytania
 Size	Rozmiar
-Size Control Slider use plus and minus buttons	Suwak regulacji rozmiaru używa przycisków plus i minus
+Size Control Slider use plus and minus buttons	Zmień rozmiar czcionki używając przycisków plus i minus
 Spacing	Odstęp
-Standard	Standardowy
+Standard	Motyw standardowy
+Submit	Prześlij
 Sync	Synchronizuj
 THEMES	MOTYWY
 Table of Contents	Spis treści
 Table of Contents...	Spis treści...
-The theme name you entered already exists. Please enter a different theme name.	Motyw o podanej nazwie już istnieje. Wpisz inną nazwę motywu.
+The theme name you entered already exists. Please enter a different theme name.	Istnieje już motyw o takiej nazwie. Proszę podać inną nazwę.
 Theme	Motyw
-Theme on Aa drop-down menu	Motyw w menu rozwijanym Aa
-Theme with the current settings	Motyw z bieżącymi ustawieniami
+Theme on Aa drop-down menu	Motyw w rozwijalnym menu Aa
+Theme with the current settings	Motyw z aktualnymi ustawieniami
 Theme {0}	Motyw {0}
-There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Za mało pamięci Kindle, aby dodać lub edytować notatki lub oznaczenia dla tego dokumentu. Udostępnij więcej pamięci Kindle, usuwając zawartość z ekranu głównego.
-This book does not support Left Alignment and other Enhanced Typography options.	Ta książka nie wspiera wyrównania do lewej i innych opcji Ulepszonej Typografii.
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Brak pamięci, aby dodać lub edytować notatki. Usuń zawartość, aby zwolnić pamięć.
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	Brak wystarczającej ilości pamięci, aby dodawać lub edytować notatki i podkreślenia w tym dokumencie. Spróbuj zwolnić pamięć usuwając część zawartości ze swojego Kindle.
+This PDF is password-protected.	Ten PDF jest chroniony hasłem.
+This book does not support Left Alignment and other Enhanced Typography options.	Ta książka nie wspiera wyrównania do lewej i innych opcji Ulepszonej Typografii
 UPDATE	AKTUALIZUJ
 Unlock Rotation	Odblokowanie rotacji
-Update Theme	Uaktualnij motyw
-Update this	Uaktualnij to
+Update Theme	Aktualizuj motyw
+Update this	Aktualizuj motyw
+View Note	Zobacz notatkę
 View Notes	Zobacz notatki
 View in Store	Pokaż w sklepie
 Virtual Panel	Panel wirtualny
-You have not yet picked from your Customised Sideloaded Fonts	Nie wybrałeś jeszcze swoich niestandardowych czcionek
-Your current Customised Sideloaded Font choice is 	Twój aktualny wybór niestandardowej czcionki to
+You have not yet picked from your Customised Sideloaded Fonts	Nie wybrałeś jeszcze swoich własnych czcionek
+Your current Customised Sideloaded Font choice is 	Aktualną własną czcionką jest 
+alignment options	opcje wyrównania
+darker	+1
+darkest	+2
+default	domyślnie
+font options	ustawienia czcionki
+font size options	ustawienia rozmiaru czcionki
+justified	wyjustowanie
+landscape	tryb krajobrazowy
+left aligned	wyrównanie do lewej
+lighter	-1
+lightest	-2
+line spacing options	ustawienia odstępu między wierszami
+margin options	ustawienia marginesu
+narrow	wąski
+portrait	tryb portretowy
+reading progress options	ustawienia postępu czytania
+right aligned	wyrównanie do prawej
+size {0}	rozmiar {0}
+wide	szeroki
 {0,select,mrpr{Sync to Most Recent Page Read} other{Sync to Furthest Page Read}}	{0,select,mrpr{Synchronizuj ostatnio czytaną stronę} other{Synchronizuj najdalszą czytaną stronę}}

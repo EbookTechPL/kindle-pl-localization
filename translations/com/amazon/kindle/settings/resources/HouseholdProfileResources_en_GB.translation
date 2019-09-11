@@ -3,9 +3,12 @@ ADD A NEW PERSON	DODAJ NOWĄ OSOBĘ
 Add New Profile	Dodaj nowy profil
 Adult	Dorosły
 Device Owner	Właściciel czytnika
+FreeTime Unlimited Options	Opcje FreeTime Unlimited
 Household & Family Library	Rodzina i Biblioteka rodzinna
+Kindle for Kids Unlimited Options	Opcje Kindle for Kids Unlimited
 Start	Początek
 {0, plural, =0 {Adult} one {Adult} other {Adults}}	{0, plural, =0 {Dorosłych} one {Dorosły} other {Dorosłych}}
 {0, plural, =0 {Child} one {Child} other {Children}}	{0, plural, =0 {Dzieci} one {Dziecko} other {Dzieci}}
-{0} Options	{0} opcji
+{0} Options	Opcje usługi {0}
+{0} options	Opcje usługi {0}
 {0} {1,plural,=0 {({2} books)} one {({2} book)} other {({2} books)}}	{0} {1,plural,=0 {({2} książek)} one {({2} książka)} other {(Książek: {2})}}

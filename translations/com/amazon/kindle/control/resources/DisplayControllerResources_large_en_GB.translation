@@ -1,13 +1,13 @@
-Author	Autor
-Collection	Kolekcja
-Date	Data
-Date (Reverse)	Data (Odwrotnie)
-Filter	Filtruj
-Member Count	Według liczby pozycji
-Number of Hits	Według liczby trafień
-Recent	Według daty
-Relevance	Według trafności
-Series	Serie
-Series (Reverse)	Seria (Odwrotnie)
-Sort	Sortuj
-Title	Według tytułu
+Author	Wg autora
+Collection	Wg kolekcji
+Date	Wg daty
+Date (Reverse)	Wg daty (wstecz)
+Filter	Filtrowanie
+Member Count	Wg liczby pozycji
+Number of Hits	Wg liczby trafień
+Recent	Wg daty otwarcia
+Relevance	Wg związku z tematem
+Series	Wg serii
+Series (Reverse)	Wg serii (wstecz)
+Sort	Sortowanie
+Title	Wg tytułu
